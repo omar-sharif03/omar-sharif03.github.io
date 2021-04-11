@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omar Sharif (ওমর শরিফ)"
+title                    : "Omar Sharif|(ওমর শরিফ)"
 title_separator          : "-"
 name                     : &name "Omar Sharif"
 description              : &description "Lecturer at Dept. of CSE, Chittagong University of Engineering and Technology"
