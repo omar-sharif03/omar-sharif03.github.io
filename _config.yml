@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omar Sharif"
+title                    : "Omar Sharif (ওমর শরিফ)"
 title_separator          : "-"
 name                     : &name "Omar Sharif"
 description              : &description "Lecturer at Dept. of CSE, Chittagong University of Engineering and Technology"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Omar Sharif"
   avatar           : "Sharif.jpg"
-  bio              : ", MSc student CUET-NLP, Research interests are NLP, Social Media Analysis."
-  location         : "Chittagong, Bangladesh"
-  employer         : Lecturer at Dept. of CSE, CUET.
+  bio              : "MSc student at CUET-NLP supervised by Dr. Mohammed Moshiul Hoque. Doing research in NLP and Social Media Analysis."
+  location         : #"Chittagong, Bangladesh"
+  employer         : "Lecturer at Dept. of CSE, CUET."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            : "omar.sharif@cuet.ac.bd"
