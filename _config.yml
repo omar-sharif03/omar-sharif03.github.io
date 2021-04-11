@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Omar Sharif"
   avatar           : "Sharif.jpg"
-  bio              : "Lecturer at Dept. of CSE, Chittagong University of Engineerng and Technology, MSc student CUET-NLP, Research interests are NLP, Social Media Analysis."
+  bio              : ", MSc student CUET-NLP, Research interests are NLP, Social Media Analysis."
   location         : "Chittagong, Bangladesh"
-  employer         :
+  employer         : Lecturer at Dept. of CSE, CUET.
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            : "omar.sharif@cuet.ac.bd"
