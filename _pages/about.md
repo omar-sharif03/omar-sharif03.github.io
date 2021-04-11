@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <p align="justify">
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
 </p>
-(Under Construction)
-=====
+
+
 <p align="justify">
 Currently, I am working as a Lecturer at Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/). I am also pursuing my M.Sc. from CUET under the supervision of [Dr. Moshiul Hoque](https://cuetnlp.com/people/) and a member of the [CUET NLP lab](https://cuetnlp.com). My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies. Some of the areas I wish to work on are textual aggression detection and classification, sentiment analysis, emotion recognition, summarization, question answering, and multimodal NLP.
 
