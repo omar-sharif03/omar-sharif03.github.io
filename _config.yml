@@ -5,9 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en-US"
-title                    : "Omar Sharif|(ওমর শরিফ)"
+title                    : "Omar Sharif | <span style="color:blue">(ওমর শরিফ)</span>"
 title_separator          : "-"
 name                     : &name "Omar Sharif"
 description              : &description "Lecturer at Dept. of CSE, Chittagong University of Engineering and Technology"
