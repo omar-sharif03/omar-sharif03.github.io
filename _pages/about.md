@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: "Omar Sharif"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<p align="justify">
+  <b><font color="red"><h2> (Under Construction)</h2></font></b>
+</p>
 (Under Construction)
 =====
-
-About
-=====
+<p align="justify">
 Currently, I am working as a Lecturer at Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/). I am also pursuing my M.Sc. from CUET under the supervision of [Dr. Moshiul Hoque](https://cuetnlp.com/people/) and a member of the [CUET NLP lab](https://cuetnlp.com). My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies. Some of the areas I wish to work on are textual aggression detection and classification, sentiment analysis, emotion recognition, summarization, question answering, and multimodal NLP.
 
 Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a CGPA of 3.90. I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
-
+</p>
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
