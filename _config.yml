@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Omar Sharif"
   avatar           : "Sharif.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Lecturer at Dept. of CSE, Chittagong University of Engineerng and Technology, MSc student CUET-NLP, Research interests are NLP, Social Media Analysis."
   location         : "Chittagong, Bangladesh"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=TBBRv2wAAAAJ"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Omar-Sharif-5"
   uri              :
   bitbucket        :
   codepen          :
