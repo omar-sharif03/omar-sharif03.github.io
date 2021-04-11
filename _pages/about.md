@@ -12,17 +12,19 @@ redirect_from:
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
 </p>
 
-
+=====
 <p align="justify">
-Currently, I am working as a Lecturer at Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/). I am also pursuing my M.Sc. from CUET under the supervision of [Dr. Moshiul Hoque](https://cuetnlp.com/people/) and a member of the [CUET NLP lab](https://cuetnlp.com). My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies. Some of the areas I wish to work on are textual aggression detection and classification, sentiment analysis, emotion recognition, summarization, question answering, and multimodal NLP.
+Currently, I am working as a Lecturer at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. I am also pursuing my M.Sc. from CUET under the supervision of <a href="https://cuetnlp.com/people/"> Dr. Moshiul Hoque</a> and a member of the <a href="https://cuetnlp.com/people/"> CUET NLP Lab</a>. My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies. Some of the areas I wish to work on are textual aggression detection and classification, sentiment analysis, emotion recognition, summarization, question answering, and multimodal NLP.
 
 Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a CGPA of 3.90. I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
 </p>
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
