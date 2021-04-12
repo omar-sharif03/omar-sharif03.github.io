@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<fon color="red"> text-purple on white </font>
+<font color="red"> text-purple on white </font>
 
 
 <p align="justify">
