@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="text-purple mb-2">
-  .text-purple on white
-</div>
+
+<fon color="red"> text-purple on white </font>
+
 
 <p align="justify">
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
