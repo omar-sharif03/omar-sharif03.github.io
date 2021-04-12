@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<font color="red"> text-purple on white </font>
-
 
 <p align="justify">
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
