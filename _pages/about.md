@@ -24,7 +24,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a 
 <b><font> Updates </font></b>
 =====
 <pre>
-🔴 <span style="color:#92a8d1"> 25 Mar, 2021 </span>  One paper accepted at [NAACL-SRW 2021](https://naacl2021-srw.github.io/).
+🔴 <span style="color:#92a8d1"> 25 Mar, 2021 </span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/"> NAACL-SRW 2021</a>.
 
 🟠
 
