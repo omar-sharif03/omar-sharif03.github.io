@@ -21,9 +21,10 @@ Currently, I am working as a Lecturer at Chittagong University of Engineering an
 Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a CGPA of 3.90. I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
 </p>
 
-<b><font color="violet"> Updates </font></b>
+<b><font> Updates </font></b>
 =====
-🔴 <span style="color:blue"> 25 Mar, 2021 </span>  One paper accepted at NAACL-SRW 2021.
+<pre>
+🔴 <span style="color:#92a8d1"> 25 Mar, 2021 </span>  One paper accepted at [NAACL-SRW 2021](https://naacl2021-srw.github.io/).
 
 🟠
 
@@ -40,6 +41,8 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a 
 ⚫
 
 🔴
+
+</pre>
 
 <b><font color="violet"> (A data-driven personal website)</font></b>
 =====
