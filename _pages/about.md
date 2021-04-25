@@ -23,9 +23,8 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a 
 
 🛑 Contact: [omar.sharif@cuet.ac.bd](omar.sharif@cuet.ac.bd)
 
-
 Updates
-====
+-----
 <pre>
 <font size="2">🔴</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.
 <font size="2">🟠</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
@@ -37,7 +36,7 @@ Updates
 <font size="2">⚫</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
 </pre>
 Upcoming Calls 
-====
+----
 *
 *
 
