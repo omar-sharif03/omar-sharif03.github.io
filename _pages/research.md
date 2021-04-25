@@ -6,7 +6,7 @@ author_profile: true
 permalink: /research/
 ---
 
-## Research Interest
+## <font color="#3366ff"> Research Interest </font>
 
 ## Research Statement
 
