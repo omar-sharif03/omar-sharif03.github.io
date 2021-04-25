@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <!---
 <p align="justify">
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
 </p>
 -->
+
 <p align="justify">
 Currently, I am working as a Lecturer at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. I am also pursuing my M.Sc. from CUET under the supervision of <a href="https://cuetnlp.com/people/"> Dr. Moshiul Hoque</a> and a member of the <a href="https://cuetnlp.com/people/"> CUET NLP Lab</a>. My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies. Some of the areas I wish to work on are textual aggression detection and classification, sentiment analysis, emotion recognition, summarization, question answering, and multimodal NLP.
 </p> 
@@ -24,6 +26,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a 
 
 Updates
 ======
+
 <pre>
 <font size="2">🔴</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.
 <font size="2">🟠</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
@@ -37,6 +40,7 @@ Updates
 
 Upcoming Calls 
 ======
+
 * Omar Sharif
 * adfafadf
 
