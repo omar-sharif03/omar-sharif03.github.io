@@ -24,7 +24,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a 
 
 🛑 Contact: [omar.sharif@cuet.ac.bd](omar.sharif@cuet.ac.bd)
 
-You can download my [<font color= #990033 >CV</font>](../files/Omar-Sharif-Resume.pdf)
+You can download my [<font color= "#990033" >CV</font>](../files/Omar-Sharif-Resume.pdf)
 
 Updates
 ======
