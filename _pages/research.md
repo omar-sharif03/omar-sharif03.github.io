@@ -8,7 +8,13 @@ permalink: /research/
 
 ## <font color="#00cc66"> Research Interest </font>
 
+**When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
+Peter Hase, Mohit Bansal
+
 ## <font color="#00cc66"> Research Statement </font>
+
+**When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
+Peter Hase, Mohit Bansal
 
 ## <font color="#00cc66"> Publications </font>
 
