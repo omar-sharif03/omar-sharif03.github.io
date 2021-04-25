@@ -6,15 +6,15 @@ author_profile: true
 permalink: /research/
 ---
 
-## <font color="#00cc66"> Research Interest </font>
+## <font color="#00cc66"> Research Interest </font> 
 
 Deep Learning, Natural Language Processing, Social Media Analysis
 
-## <font color="#00cc66"> Research Statement </font>
+## <font color="#00cc66"> Research Statement </font>  
 
 My research statement
 
-## <font color="#00cc66"> Publications </font>
+## <font color="#00cc66"> Publications </font>   
 
 **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
 Avishek Das, <b>*<font color="#ff6633">Omar Sharif</font>*</b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
