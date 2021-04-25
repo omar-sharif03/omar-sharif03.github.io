@@ -6,11 +6,11 @@ author_profile: true
 permalink: /research/
 ---
 
-## <font color="#cc9966"> Research Interest </font>
+## <font color="#00cc66"> Research Interest </font>
 
-## <font color="#cc9966"> Research Statement </font>
+## <font color="#00cc66"> Research Statement </font>
 
-## <font color="#cc9966"> Publications </font>
+## <font color="#00cc66"> Publications </font>
 
 **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
 Peter Hase, Mohit Bansal  
