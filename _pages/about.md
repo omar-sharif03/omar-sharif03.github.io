@@ -24,7 +24,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a 
 
 <b>Contact: </b> [<font color= "#990033" >omar.sharif@cuet.ac.bd</font>](omar.sharif@cuet.ac.bd)
 
-<b>Latest CV: </b> [<font color= "#990033" >Omar-Sharif-CV</font>](../files/Omar-Sharif-Resume.pdf)
+<b>My latest cv: </b> [<font color= "#990033" >omar-sharif-cv</font>](../files/Omar-Sharif-Resume.pdf)
 
 Updates
 ======
