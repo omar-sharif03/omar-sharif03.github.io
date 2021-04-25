@@ -26,7 +26,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a 
 
 <b>My latest cv: </b> [<font color= "#990033" >omar-sharif-cv</font>](../files/Omar-Sharif-Resume.pdf)
 
-Updates
+<font color="#00cc66"> Updates </font>
 ======
 
 <pre>
@@ -40,7 +40,7 @@ Updates
 <font size="2">⚫</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
 </pre>
 
-Upcoming Calls 
+<font color="#00cc66"> Upcoming Calls </font> 
 ======
 
 * Omar Sharif
