@@ -13,7 +13,6 @@ Deep Learning, Natural Language Processing, Social Media Analysis
 ## <font color="#00cc66"> Research Statement </font>  
 
 My research statement
-
 ## <font color="#00cc66"> Publications </font>   
 
 **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
