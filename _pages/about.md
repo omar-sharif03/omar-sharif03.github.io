@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Hey, I'm Omar Sharif!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,8 @@ Currently, I am working as a Lecturer at Chittagong University of Engineering an
 Previously, I did my B.Sc. in Computer Science and Engineering from CUET with a CGPA of 3.90. I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
 </p>
 
-🛑 Email: [omar.sharif@cuet.ac.bd](omar.sharif@cuet.ac.bd)
+🛑 Contact: [omar.sharif@cuet.ac.bd](omar.sharif@cuet.ac.bd)
+
 
 <b><font> Updates </font></b>
 =====
