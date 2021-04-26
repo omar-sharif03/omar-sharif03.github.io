@@ -5,9 +5,9 @@ excerpt: ""
 author_profile: true
 permalink: /research/
 ---
-<!---
-## <font color="#00cc66"> Research Interest </font> 
----!>
+
+
+
 
 Deep Learning, Natural Language Processing, Social Media Analysis
 
