@@ -1,11 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "Education"
 excerpt: ""
 author_profile: true
-permalink: /research/
 redirect_from: 
-  - /markdown.html
+  - /eucation/
+  - /about.html
 ---
 
 
