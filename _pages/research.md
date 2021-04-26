@@ -17,7 +17,7 @@ Deep Learning, Natural Language Processing, Social Media Analysis
 
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1xXbPK___MJcT2q1BUtkQwzl9Jhs-i67_/view?usp=sharing) 
+  [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1XRg4nXHyp4K5zh2TlSl0oq73vYYw-meL/view?usp=sharing) 
 
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
