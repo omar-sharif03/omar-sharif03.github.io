@@ -2,9 +2,8 @@
 title: "Research Interest"
 excerpt: ""
 author_profile: true
-permalink: /
+permalink: /research/
 redirect_from: 
-  - /research/
   - /about.html
 ---
 
