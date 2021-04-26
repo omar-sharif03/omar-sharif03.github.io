@@ -60,4 +60,4 @@ Deep Learning, Natural Language Processing, Social Media Analysis
   [<font color="	#993333"> [ICO-2019] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
   
  
- <b><font color="#f00">To get the full list of my papers please check this</font> [[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)</b>
+🛑 <b><font color="#f00">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
