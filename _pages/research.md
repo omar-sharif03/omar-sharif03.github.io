@@ -1,9 +1,11 @@
 ---
-layout: archive
 title: "Research Interest"
 excerpt: ""
 author_profile: true
-permalink: /research/
+permalink: /
+redirect_from: 
+  - /research/
+  - /about.html
 ---
 
 Deep Learning, Natural Language Processing, Social Media Analysis
