@@ -45,3 +45,12 @@ Deep Learning, Natural Language Processing, Social Media Analysis
  **TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network**  
  *<font color="#ff6633">Omar Sharif</font>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
 [<font color="	#993333"> [ICON-2020] </font>](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html)    [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2012.11420) 
+
+ **Detecting Suspicious Texts Using Machine Learning Techniques**  
+  *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.47)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
+  
+ **SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews**  
+  Eftekhar Hossain, *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
+  [<font color="#993333"> [HIS-2021] </font>](http://www.mirlabs.net/his20/)  [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2011.09684)
+ 
