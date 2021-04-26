@@ -1,11 +1,8 @@
 ---
-permalink: /
 title: "Education"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /eucation/
-  - /about.html
+permalink: /education/
 ---
 
 
