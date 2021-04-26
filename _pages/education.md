@@ -4,6 +4,8 @@ title: "Education"
 excerpt: ""
 author_profile: true
 permalink: /education/
+redirect_from: 
+  - /about.html
 ---
 
 
