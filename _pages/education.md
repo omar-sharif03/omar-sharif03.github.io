@@ -1,10 +1,10 @@
 ---
-layout: archive
 title: "Education"
 excerpt: ""
 author_profile: true
-permalink: /education/
+permalink: /
 redirect_from: 
+  - /education/
   - /about.html
 ---
 
