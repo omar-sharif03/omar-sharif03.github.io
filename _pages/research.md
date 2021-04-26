@@ -11,12 +11,9 @@ redirect_from:
 Deep Learning, Natural Language Processing, Social Media Analysis
 
 ## <font color="#00cc66"> Research Statement </font>  
-
   Will write my research statement here.
 
 ## <font color="#00cc66"> Publications </font>  
-
-
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1XRg4nXHyp4K5zh2TlSl0oq73vYYw-meL/view?usp=sharing) 
