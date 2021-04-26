@@ -32,9 +32,9 @@ Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/)
 
 ## <font color="#00cc66"> Co-curricular Activities </font>
 
-    * Mentor CUET competitive programming club
-    * Organized CUET CSE Fest 2017,2018,2019.
-    * Organized CUET National Collegiate Programming Contest 2017.
-    * Champion of CUET Football League 2018, 2019.
-    * Champion of Intra Hall Badminton Tournament 2017.
-    * Runner-up of Inter University Volleyball Tournament 2017.
+   * Mentor CUET competitive programming club
+   * Organized CUET CSE Fest 2017,2018,2019.
+   * Organized CUET National Collegiate Programming Contest 2017.
+   * Champion of CUET Football League 2018, 2019.
+   * Champion of Intra Hall Badminton Tournament 2017.
+   * Runner-up of Inter University Volleyball Tournament 2017.
