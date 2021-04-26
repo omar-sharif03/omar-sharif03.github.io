@@ -62,4 +62,5 @@ Deep Learning, Natural Language Processing, Social Media Analysis
   *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [ICO-2019] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
   
-  
+ 
+ <b>To get full list of my papers please check this [[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)</b>
