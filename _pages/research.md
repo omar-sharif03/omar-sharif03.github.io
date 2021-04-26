@@ -52,5 +52,14 @@ Deep Learning, Natural Language Processing, Social Media Analysis
   
  **SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews**  
   Eftekhar Hossain, *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
-  [<font color="#993333"> [HIS-2021] </font>](http://www.mirlabs.net/his20/)  [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2011.09684)
+  [<font color="#993333"> [HIS-2020] </font>](http://www.mirlabs.net/his20/)  [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2011.09684)
  
+  **Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Naïve Bayes**  
+  *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque, Eftekhar Hossain   
+  [<font color="	#993333"> [ICASERT-2019] </font>](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/)  [<font color="#cc00ff">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
+  
+   **Automatic Detection of Suspicious Bangla Text Using Logistic Regression**  
+  *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [ICO-2019] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
+  
+  
