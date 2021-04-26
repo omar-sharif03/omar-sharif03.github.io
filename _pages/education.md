@@ -3,8 +3,8 @@ layout: archive
 title: "Education"
 excerpt: ""
 author_profile: true
+permalink: /research/
 redirect_from: 
-  - /research/
   - /markdown.html
 ---
 
