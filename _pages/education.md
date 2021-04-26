@@ -2,9 +2,8 @@
 title: "Education"
 excerpt: ""
 author_profile: true
-permalink: /
+permalink: /education/
 redirect_from: 
-  - /education/
   - /about.html
 ---
 
