@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font color="#00cc66"> Research Interest </font> "
+title: "Research Interest"
 excerpt: ""
 author_profile: true
 permalink: /research/
