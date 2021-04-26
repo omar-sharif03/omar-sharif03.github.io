@@ -22,19 +22,28 @@ CGPA: <b>3.90/4.00</b>
 Position: <b>1<sup>st</sup>/103</b>   
 Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/) 
 
+## Locations of key files/directories
+
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
 
 
 ## <font color="#00cc66"> Employment </font>
-
-<pre>
-
  **Lecturer <font color="#3366ff">[July 2019 - Present]</font>**   
  *Computer Science and Engineering, CUET*
 
  **Research Assistant <font color="#3366ff">[Dec 2018 - June 2019]</font>**    
  *Computer Science and Engineering, CUET*
-
-</pre>
 
 ## <font color="#00cc66"> Co-curricular Activities </font>
 
