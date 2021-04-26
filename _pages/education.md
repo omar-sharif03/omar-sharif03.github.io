@@ -24,10 +24,10 @@ Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/)
 
 ## <font color="#00cc66"> Employment </font>
 
-**Lecturer [<font color="#3366ff"> July 2019 - Present </font>]**   
+**Lecturer <font color="#3366ff">[July 2019 - Present]</font>**   
 *Computer Science and Engineering, CUET*
 
-**Research Assistant [<font color="#3366ff"> Dec 2018 - June 2019 </font>]**    
+**Research Assistant <font color="#3366ff">[Dec 2018 - June 2019]</font>**    
 *Computer Science and Engineering, CUET*
 
 ## <font color="#00cc66"> Co-curricular Activities </font>
