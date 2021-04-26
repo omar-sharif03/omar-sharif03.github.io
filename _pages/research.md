@@ -6,14 +6,11 @@ author_profile: true
 permalink: /research/
 ---
 
-
-
-
 Deep Learning, Natural Language Processing, Social Media Analysis
 
 ## <font color="#00cc66"> Research Statement </font>  
 
-  My research statement
+  Will write my research statement here.
 
 ## <font color="#00cc66"> Publications </font>  
 
