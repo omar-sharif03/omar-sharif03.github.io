@@ -37,3 +37,7 @@ Deep Learning, Natural Language Processing, Social Media Analysis
    *<font color="#f00">[Best paper award (research track)]</font>*   
   *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [CONSTRAINT@AAI-2021] </font>](https://aaai.org/Conferences/AAAI-21/)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
+  
+ **Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media**  
+ *<font color="#ff6633">Omar Sharif</font>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
+ [Preprint@arXiv]   [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2101.03291)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/CONSTRAINT-AAAI2021) 
