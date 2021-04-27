@@ -14,11 +14,11 @@ Deep Learning, Natural Language Processing, Social Media Analysis
 
 ## <font color="#00cc66"> Publications </font>  
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
-  *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
+  *<font color="#000">Omar Sharif</font>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1XRg4nXHyp4K5zh2TlSl0oq73vYYw-meL/view?usp=sharing) 
 
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
-  Avishek Das, *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
+  Avishek Das, *<font color="#000">Omar Sharif</font>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
   [<font color="	#993333"> [NAACL-SRW 2021 (acceptance rate: 40%)] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/pdf/2104.08613.pdf)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
 
   **Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner**  
@@ -35,11 +35,11 @@ Deep Learning, Natural Language Processing, Social Media Analysis
  
   **Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation**  
    *<font color="#f00">[Best paper award (research track)]</font>*   
-  *<font color="#ff6633">Omar Sharif</font>*, Mohammed Moshiul Hoque    
+  *<font color="#000">Omar Sharif</font>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
   
  **Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media**  
- *<font color="#ff6633">Omar Sharif</font>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
+ *<font color="#000">Omar Sharif</font>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
  [Preprint@arXiv]   [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2101.03291)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/CONSTRAINT-AAAI2021) 
  
  **TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network**  
