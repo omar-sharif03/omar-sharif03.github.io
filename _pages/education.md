@@ -43,3 +43,6 @@ Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/)
 [*<font color="#ff6633">[TensorFlow]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/5E2FDBG5ALDR) [(Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
   * Built basic neural network, GRUs, LSTMs using tensorflow and get profound implementation knowledge of tensorflow.
   * Learned how to improve network performance using convolutions,  how to teach machines to understand, analyze, and respond to human speech with natural language processing systems.
+
+**Natural Language Processing Specialization**
+[*<font color="#ff6633">[Enrolled]</font>*](https://www.coursera.org/specializations/natural-language-processing?)
