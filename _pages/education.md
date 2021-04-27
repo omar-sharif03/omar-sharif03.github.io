@@ -31,11 +31,14 @@ Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/)
  **Research Assistant <font color="#3366ff">[Dec 2018 - June 2019]</font>**    
  *Computer Science and Engineering, CUET*
 
-## <font color="#00cc66"> Co-curricular Activities </font>
+## <font color="#00cc66"> Certifications </font>
 
-   * Mentor CUET competitive programming club
-   * Organized CUET CSE Fest 2017,2018,2019.
-   * Organized CUET National Collegiate Programming Contest 2017.
-   * Champion of CUET Football League 2018, 2019.
-   * Champion of Intra Hall Badminton Tournament 2017.
-   * Runner-up of Inter University Volleyball Tournament 2017.
+**Deep Learning Specialization**   
+*<font color="#ff6633">[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/ELLF6SH732TL)</font>* [Courseara]
+  * Get the foundations of deep learning and learn about CNN, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization and other hyper-parameter optimization techniques which help me to build successful deep learning projects.
+  * Implement different case studies on autonomous driving, sign language reading, music generation, and natural language processing usingtensorflow and python.
+
+**DeepLearning.AI TensorFlow Developer Specialization**  
+*<font color="#ff6633">[TensorFlow](https://www.coursera.org/account/accomplishments/specialization/certificate/5E2FDBG5ALDR)</font>* [Courseara]
+  * Built basic neural network, GRUs, LSTMs using tensorflow and get profound implementation knowledge of tensorflow.
+  * Learned how to improve network performance using convolutions,  how to teach machines to understand, analyze, and respond to human speech with natural language processing systems.
