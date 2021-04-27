@@ -35,10 +35,9 @@ Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/)
 
 **Deep Learning Specialization**   
 [*<font color="#ff6633">[Deep Learning]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/ELLF6SH732TL) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
-<p align="justify>
-  * Get the foundations of deep learning and learn about CNN, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization and other hyper-parameter optimization techniques which help me to build successful deep learning projects.
-  * Implement different case studies on autonomous driving, sign language reading, music generation, and natural language processing usingtensorflow and python.
-</p>
+
+   * Get the foundations of deep learning and learn about CNN, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization and other hyper-parameter optimization techniques which help me to build successful deep learning projects.
+   * Implement different case studies on autonomous driving, sign language reading, music generation, and natural language processing usingtensorflow and python.
           
 **DeepLearning.AI TensorFlow Developer Specialization**  
 [*<font color="#ff6633">[TensorFlow]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/5E2FDBG5ALDR) [(Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
