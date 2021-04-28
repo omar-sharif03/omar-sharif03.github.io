@@ -9,8 +9,8 @@ redirect_from:
 
 ## <font color="#00cc66"> Research Grants</font>
 
- * <font color= "#737373" >ICT division Bangladesh research grant (2020-2021): </font> 1000K BDT
- * <font color= "#737373" >CUET IT business incubator research grant (2019-2020): </font> 400K BDT
+ * <b><font color= "#737373" >ICT division Bangladesh research grant (2020-2021):</font></b> 1000K BDT
+ * <b><font color= "#737373" >CUET IT business incubator research grant (2019-2020):</font></b> 400K BDT
  
 ## <font color="#00cc66"> Co-curricular Activities </font>
 
