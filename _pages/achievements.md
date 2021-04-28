@@ -22,9 +22,8 @@ redirect_from:
  * <b><font color= "#737373" >ICT division Bangladesh research grant (2020-2021):</font></b> 1000K BDT
  * <b><font color= "#737373" >CUET IT business incubator research grant (2019-2020):</font></b> 400K BDT
  
-## <font color="#00cc66"> Co-curricular Activities </font>
+## <font color="#00cc66"> Co-curricular</font>
 
-   * Mentor CUET competitive programming club
    * Organized CUET CSE Fest 2017,2018,2019.
    * Organized CUET National Collegiate Programming Contest 2017.
    * Champion of CUET Football League 2018, 2019.
