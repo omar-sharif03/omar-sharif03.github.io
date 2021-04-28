@@ -6,7 +6,7 @@ permalink: /achievements/
 redirect_from: 
   - /about.html
 ---
-<pre>
+
 * <b><font color= "#737373" >CUET Ex-students merit award (2015, 2016, 2017):</font></b> For obtaining highest GPA in an academic year
 * <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional
 * <b><font color= "#737373" >27<sup>th</sup> position</font></b> (among 1600+ teams): ACM ICPC Dhaka Regional Preliminary, 2017
@@ -16,7 +16,7 @@ redirect_from:
 * <b><font color= "#737373" >Best internship trainee award</font></b> (2017): For doing best team project
 * <b><font color= "#737373" >Technical scholarship</font></b> (2014-2018): To get position among top 50% students in the class
 * <b><font color= "#737373" >Primary & high school scholarship</font></b> (2005, 2008): Government of Bangladesh
-</pre>
+
 ## <font color="#00cc66"> Research Grants</font>
 
  * <b><font color= "#737373" >ICT division Bangladesh research grant (2020-2021):</font></b> 1000K BDT
