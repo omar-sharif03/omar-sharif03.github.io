@@ -58,14 +58,15 @@ List of few books, courses and blog posts that I find really helpfull.
    * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
    * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
    * Natural Language Processing in Action [[link]](https://www.manning.com/books/natural-language-processing-in-action)
-   * Deep Learning (did not able to complete this book) [[link]](https://www.deeplearningbook.org/)
+   * Deep Learning [[link]](https://www.deeplearningbook.org/)
 
 * **Courses**
    * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
    * NTU nlp course (covers state of the techniques) [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
    * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
    * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
-* **Blog Posts**
+
+* **Follow**
    * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
    * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
-   
+   * NLP with Frineds (bi-weekly meeting) [[link]](https://nlpwithfriends.com/)
