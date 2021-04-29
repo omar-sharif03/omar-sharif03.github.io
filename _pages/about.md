@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey, I'm Omar Sharif!"
+title: "Hello, I'm Omar Sharif!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
