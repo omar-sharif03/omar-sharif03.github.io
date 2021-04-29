@@ -6,19 +6,24 @@ permalink: /achievements/
 redirect_from: 
   - /about.html
 ---
-
-* <b><font color= "#737373" >CUET Ex-students merit award (2015, 2016, 2017):</font></b> For obtaining highest GPA in an academic year
-* <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional
-* <b><font color= "#737373" >Best paper award</font></b>: CONSTRAINT collocated with AAAI-2021
-* <b><font color= "#737373" >Winner</font></b>: Hope speech detection shared task, EACL-2021
-* <b><font color= "#737373" >2<sup>nd</sup> runner up</font></b>: Multimodal meme detection and offenisve language classification shared task, EACL-2021
-* <b><font color= "#737373" >27<sup>th</sup> position</font></b> (among 1600+ teams): ACM ICPC Dhaka Regional Preliminary, 2017
-* <b><font color= "#737373" >31<sup>st</sup> position</font></b> (among 150 selected teams): National Collegiate Programming Contest, 2017
+<pre>
+<ul>
+  <li> <b><font color= "#737373" >CUET Ex-students merit award</font></b> (2015, 2016, 2017): For obtaining highest GPA in an academic year</li>
+  - <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional
+  - <b><font color= "#737373" >Best paper award</font></b>: CONSTRAINT collocated with AAAI-2021
+  - <b><font color= "#737373" >Winner</font></b>: Hope speech detection shared task, EACL-2021
+  <li><b><font color= "#737373" >2<sup>nd</sup> runner up</font></b>: Multimodal meme and offenisve language classification shared task, EACL-2021</li>
+ 
+</ul>
+</pre>
+<!-- - <b><font color= "#737373" >27<sup>th</sup> position</font></b> (among 1600+ teams): ACM ICPC Dhaka Regional Preliminary, 2017
+- <b><font color= "#737373" >31<sup>st</sup> position</font></b> (among 150 selected teams): National Collegiate Programming Contest, 2017
 * <b><font color= "#737373" >5<sup>th</sup> position</font></b> (among 70+ teams): Divisional Programming Contest, 2017
 * <b><font color= "#737373" >1<sup>st</sup> position</font></b> (among 50 teams): Inter University Programming Contest, 2016
 * <b><font color= "#737373" >Best internship trainee award</font></b> (2017): For doing best team project
 * <b><font color= "#737373" >Technical scholarship</font></b> (2014-2018): To get position among top 50% students in the class
 * <b><font color= "#737373" >Primary & high school scholarship</font></b> (2005, 2008): Government of Bangladesh
+ -->
 
 ## <font color="#00cc66"> Research Grants</font>
 
