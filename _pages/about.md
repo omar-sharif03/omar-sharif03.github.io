@@ -66,6 +66,6 @@ List of few books, courses and blog posts that I find really helpfull.
    * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
    * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
 * **Blog Posts**
-   * adf
-   * aasdf
+   * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
+   * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
    
