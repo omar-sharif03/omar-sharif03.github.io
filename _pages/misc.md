@@ -1,9 +1,10 @@
 ---
-layout: archive
 title: "Upcoming Calls"
 excerpt: ""
 author_profile: true
 permalink: /misc/
+redirect_from: 
+  - /about.html
 ---
 
 * EMNLP-2021 [[Deadline: May 17]](https://2021.emnlp.org/call-for-papers)
