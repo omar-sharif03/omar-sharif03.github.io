@@ -17,6 +17,8 @@ permalink: /misc/
 
 ## <font color="#00cc66"> Quotes </font>   
 
+Whenever I feel depressed or exhausted, I try to utter few quotes in my mind from here. These points are taken from different books I have read over time.
+
 > * Life is a echo: "We get back what we give".  
 > * The quality of our life depends on the quality of our thoughts.  
 > * Our thoughts lead to actions, actions lead to habits and habits form character. "Character determines our destiny".
