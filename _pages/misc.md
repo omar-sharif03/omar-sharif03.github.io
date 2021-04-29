@@ -14,3 +14,13 @@ permalink: /misc/
 * ICWSM-2022 [[Deadline: May 15, Sept 15]](https://www.icwsm.org/2021/index.html)
 * Workshop on online abuse and harms [[Deadline: May 19]](https://www.workshopononlineabuse.com/cfp/shared-task-on-hateful-memes)
 * CLEF-2021 (Fake News Detection) [[Deadline: May 7]](https://www.workshopononlineabuse.com/cfp/shared-task-on-hateful-memes)
+
+## <font color="#00cc66"> Quotes </font>   
+
+> * Life is a echo: "We get back what we give".  
+> * The quality of our life depends on the quality of our thoughts.  
+> * Our thoughts lead to actions, actions lead to habits and habits form character. "Character determines our destiny".
+> * Try to smile and be kind to others. Smile increases our face value.  
+> * Don't expect anything from others. Expect only from yourself and believe in your hard work.   
+> * Try to make yourself a better person by every passing day, learn new things, expand your knowledge, invest on yourself and practise humility and kindness.
+> * 
