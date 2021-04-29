@@ -33,7 +33,7 @@ Deep Learning, Natural Language Processing, Social Media Analysis
 
  **Investigating Visual and Textual Features to Identify Trolls from Multimodal Social Media Memes**  
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/CUET_NLP-EACL_2021)  
+  [<font color="	#993333"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/) 
  
   **Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation**  
    *<font color="#f00">[Best paper award (research track)]</font>*   
