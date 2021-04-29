@@ -19,10 +19,21 @@ permalink: /misc/
 
 Whenever I feel depressed or exhausted, I try to utter few quotes in my mind from here. These points are taken from different books I have read over time.
 
+> * But they plan and Allah plans. Surely, Allah is the best of planners. [Quran 8:30]
 > * Life is a echo: "We get back what we give".  
 > * The quality of our life depends on the quality of our thoughts.  
 > * Our thoughts lead to actions, actions lead to habits and habits form character. "Character determines our destiny".
 > * Try to smile and be kind to others. Smile increases our face value.  
 > * Don't expect anything from others. Expect only from yourself and believe in your hard work.   
 > * Try to make yourself a better person by every passing day, learn new things, expand your knowledge, invest on yourself and practise humility and kindness.
-> * 
+> * Buring desire is the starting point of all achievements.  
+> * When we form the habit of searching or the positive in every situation, our life will move into its highest dimensions.  
+> * Winning is not everything, making effort to win is the key. 
+> * The tree that bears the most fruits also gets the most stones. 
+> * Turn your promises into commitments. Try to fullfill your commitment in everything that you engage.
+> * Practise honesty, integrity and sincererity in every aspect of your life. 
+> * Try not to be the man of success but rather try to be the man of value. 
+ 
+
+
+> * afdf
