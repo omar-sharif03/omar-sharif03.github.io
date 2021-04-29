@@ -40,3 +40,6 @@ Whenever I feel depressed or exhausted, I try to utter few quotes in my mind fro
 
 
 > * You will never be able to hit a target that you can not see. So visualize your success every moment.
+> * Life gives you what you ask of it, it always listening.
+> * When you control your toughts, you control your mind. When you control your mind, you control your life. When you control your life, you become the master of your destiny. 
+> * Respect your time and simplify your life. 
