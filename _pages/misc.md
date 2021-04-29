@@ -20,6 +20,8 @@ permalink: /misc/
 Whenever I feel depressed or exhausted, I try to utter few quotes in my mind from here. These points are taken from different books I have read over time.
 
 > * But they plan and Allah plans. Surely, Allah is the best of planners. [Quran 8:30]
+ 
+
 > * Life is a echo: "We get back what we give".  
 > * The quality of our life depends on the quality of our thoughts.  
 > * Our thoughts lead to actions, actions lead to habits and habits form character. "Character determines our destiny".
@@ -36,4 +38,4 @@ Whenever I feel depressed or exhausted, I try to utter few quotes in my mind fro
  
 
 
-> * afdf
+> * You will never be able to hit a target that you can not see. So visualize your success every moment.
