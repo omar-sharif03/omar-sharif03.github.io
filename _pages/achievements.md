@@ -9,6 +9,9 @@ redirect_from:
 
 * <b><font color= "#737373" >CUET Ex-students merit award (2015, 2016, 2017):</font></b> For obtaining highest GPA in an academic year
 * <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional
+* <b><font color= "#737373" >Best paper award</font></b> (2021): CONSTRAINT collocated with AAAI-2021
+* <b><font color= "#737373" >Winner</font></b> (2021): Hope speech detection shared task, EACL-2021
+* <b><font color= "#737373" >2<sup>nd</sup> runner up</font></b> (2021): Multimodel meme detection and offenisve language classification shared task, EACL-2021
 * <b><font color= "#737373" >27<sup>th</sup> position</font></b> (among 1600+ teams): ACM ICPC Dhaka Regional Preliminary, 2017
 * <b><font color= "#737373" >31<sup>st</sup> position</font></b> (among 150 selected teams): National Collegiate Programming Contest, 2017
 * <b><font color= "#737373" >5<sup>th</sup> position</font></b> (among 70+ teams): Divisional Programming Contest, 2017
