@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Deep Learning, Natural Language Processing, Social Media Analysis
-
-## <font color="#00cc66"> Research Statement </font>  
-  Will write my research statement here.
+Deep Learning, Natural Language Processing. Some of the areas I wish to work are,
+ * Undesired (aggressive, abusive, fake, hate, offensive) social media text detection and classification
+ * Sentiment analysis, Emotion recognition, Question answering, Summarization
+ * Multimodal NLP (abuse detection by analyzing text and image, image/video captionaing)
+  
 <!--
-*<font color="#ff6633">Omar Sharif</font>*
+  ## <font color="#00cc66"> Research Statement </font>  
+    Will write my research statement here.
+  *<font color="#ff6633">Omar Sharif</font>*
 -->
+
 ## <font color="#00cc66"> Publications </font>  
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
