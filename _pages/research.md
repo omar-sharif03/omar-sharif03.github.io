@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-[Deep Learning, Natural Lanugage Processing]
-
 Some of the areas I wish to work are,
 
  * Undesired (aggressive, abusive, fake, hate) social media text detection and classification
- * Sentiment analysis, Emotion recognition, Question answering
+ * Sentiment analysis, Emotion recognition, Question answering, 
  * Multimodal NLP (abuse detection by analyzing text and image, video/image captionaing)
  * Multilingual and low-resource NLP
   
