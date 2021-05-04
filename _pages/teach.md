@@ -20,3 +20,14 @@ Taught the following undergraudate courses in CUET. I conducted theory courses a
 | CSE-191    | Computer Programming (C)        | Level-1 Term-II (MIE-18)|                   |   30      |
 
 ## <font color="#00cc66"> FAQs </font>  
+List of some questions that my students frequently ask me. If you have any other questions email or meet me in person. 
+
+**1. I am interested in ML/NLP research, from where I should start?**   
+Will answer.
+
+<!---
+**2. Know the basics of programming. Wish to participate and do well in ACM ICPC**
+Will ansewer.
+**3. How to maintain good GPA with decent programming skill.**
+Will answer.
+-->
