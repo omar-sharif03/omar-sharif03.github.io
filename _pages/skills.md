@@ -31,13 +31,15 @@ Solved 1000+ competitive programming problems in different online platforms as p
 
 ## <font color="#00cc66"> Leadership </font>
 
-**CUET NLP Lab**
+**CUET NLP Lab**   
 Mentor [Aug 2019 - Present] 
+
   * Meet weekly with the undergrads working under CUET NLP lab. Discuss research problems, share ideas and track their progress.
   * Teach students the basics of deep learning and NLP.
 
-**Competitive Programming Club, CUET**
+**Competitive Programming Club, CUET**    
 Coach [Jan 2019 - Present] 
+
   * Teach students advance data structures, number theory and algorithms.
   * Organize contests, keep track of individual performance and form up teams. 
 
