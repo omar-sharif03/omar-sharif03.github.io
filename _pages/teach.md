@@ -1,9 +1,10 @@
 ---
-layout: archive
 title: "Teaching"
 excerpt: ""
 author_profile: true
 permalink: /teach/
+redirect_from: 
+  - /about.html
 ---
 
 | Course Code|  Course Title                   | Class             | Course Syllabus   | Student Count | 
