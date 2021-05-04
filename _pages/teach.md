@@ -10,7 +10,7 @@ redirect_from:
 | Course Code|  Course Title                   | Class             | Course Plan   | Student Count | 
 | ---     | ------                          | --                 | -------    | ------ |
 | CSE-143    | OOP (C++)                       | Level-1 Term-II (CSE-19)|[<font color= "#990033" >CSE-143</font>](../files/Course-Syllabus-for-CSE-143.pdf)|   132      |
-| CSE-144    | OOP - Sessional (C++)           | Level-1 Term-II (CSE-19)|   -                |   132     |
+| CSE-144    | OOP - Sessional (C++)           | Level-1 Term-II (CSE-19)| [<font color= "#990033" >CSE-144</font>](../files/Lab_Manual_OOP_144.pdf)|   132     |
 | CSE-141    | Structured Programming (C)      | Level-1 Term-I (CSE-19)|[<font color= "#990033" >CSE-141</font>](../files/Course_Syllabus.pdf)|   132      |
 | CSE-142    | Structured Programming - Sessional| Level-1 Term-I (CSE-19)|[<font color= "#990033" >CSE-142</font>](../files/CSE-142-Lecture-Plan.pdf)|   132      |
 | CSE-326    | Internet Programming - Sessional| Level-3 Term-I (CSE-17)| [<font color= "#990033" >CSE-326</font>](../files/Course-Syllabus-for-CSE-326.pdf)|   130     |
