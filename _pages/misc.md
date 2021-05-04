@@ -22,8 +22,10 @@ Whenever I feel depressed or exhausted, I try to utter few quotes in my mind fro
 
 > * But they plan and Allah plans. Surely, Allah is the best of planners. [Quran 8:30]
  
-
+> * Practise honesty, integrity and sincererity in every aspect of your life. 
 > * Life is a echo: "We get back what we give".  
+> * Never fear failure. Failure is your friend. 
+> * Don't race aganist others, race aganist yourself. 
 > * The quality of our life depends on the quality of our thoughts.  
 > * Our thoughts lead to actions, actions lead to habits and habits form character. "Character determines our destiny".
 > * Try to smile and be kind to others. Smile increases our face value.  
@@ -34,12 +36,20 @@ Whenever I feel depressed or exhausted, I try to utter few quotes in my mind fro
 > * Winning is not everything, making effort to win is the key. 
 > * The tree that bears the most fruits also gets the most stones. 
 > * Turn your promises into commitments. Try to fullfill your commitment in everything that you engage.
-> * Practise honesty, integrity and sincererity in every aspect of your life. 
 > * Try not to be the man of success but rather try to be the man of value. 
- 
-
-
 > * You will never be able to hit a target that you can not see. So visualize your success every moment.
 > * Life gives you what you ask of it, it always listening.
 > * When you control your toughts, you control your mind. When you control your mind, you control your life. When you control your life, you become the master of your destiny. 
 > * Respect your time and simplify your life. 
+> * Never, ever forget the gift of family. It is all you have at the end of your life.
+> * There is a huge difference between making a lot of money and making a lot of time. 
+> * Stop being a prisoner of your past, become the architect of your future. 
+> * Be humble in evrey stage of your life. 
+
+
+
+> * And when you want something by heart, all the universe conspires in helping you to achieve it. 
+> * You must always know what it is that you want. 
+> * Every blessing ignored becomes a curse.
+> * Making a decision is the beginning of things. When someone makes a decision, he is really diving into a strong current that will carry him to places he had never dreamed of when he first made the decision. 
+
