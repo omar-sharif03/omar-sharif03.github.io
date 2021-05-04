@@ -27,6 +27,10 @@ Whenever I feel depressed or exhausted, I try to utter few quotes in my mind fro
 > * Never fear failure. Failure is your friend. 
 > * Don't race aganist others, race aganist yourself. 
 > * The quality of our life depends on the quality of our thoughts.  
+> * Your eyes show the strength of your soul.
+> * No heart have ever suffered when it goes in search of its dreams, because every second of the search is a second's encourter with God and with eternity.  
+> * When we strive to become better that we are, everything around us beomes better, too.
+
 > * Our thoughts lead to actions, actions lead to habits and habits form character. "Character determines our destiny".
 > * Try to smile and be kind to others. Smile increases our face value.  
 > * Don't expect anything from others. Expect only from yourself and believe in your hard work.   
@@ -51,5 +55,12 @@ Whenever I feel depressed or exhausted, I try to utter few quotes in my mind fro
 > * And when you want something by heart, all the universe conspires in helping you to achieve it. 
 > * You must always know what it is that you want. 
 > * Every blessing ignored becomes a curse.
-> * Making a decision is the beginning of things. When someone makes a decision, he is really diving into a strong current that will carry him to places he had never dreamed of when he first made the decision. 
+> * Making a decision is the beginning of things. When someone makes a decision, he is really diving into a strong current that will carry him to places he had never dreamed of when he first made the decision.  
+> * People need not fear the unknown if they are capable of achieving what they need and want.  
+> * People are afraid to pursue their most important dreams, because they feel that they don't deserve them, or that they will be unable to achieve them.
+> * Tell your heart that the fear of suffering is worse than the suffering itself. 
+> * There is only one thing that makes a dream impossible to achieve: the fear of failure.
+> * All people who are happy have God within them. 
+> * The darkest hour of the night came just before the dawn. 
+
 
