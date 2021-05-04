@@ -43,3 +43,8 @@ Coach [Jan 2019 - Present]
   * Teach students advance data structures, number theory and algorithms.
   * Organize contests, keep track of individual performance and form up teams. 
 
+**ACM Student Chapter, CUET**    
+Vice-chair [Mar 2021 - Present] 
+
+  * Lead a team of 30+ active members. Plan and asses the growth of the chapter.
+  * Arrange research seminars, talks and workshops on different trending topics. 
