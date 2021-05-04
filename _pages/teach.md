@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Taught the following undergraudate course in CUET. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
+
 | Course Code|  Course Title                   | Class             | Course Plan   | Student Count | 
 | ---     | ------                          | --                 | -------    | ------ |
 | CSE-143    | OOP (C++)                       | Level-1 Term-II (CSE-19)|[<font color= "#990033" >CSE-143</font>](../files/Course-Syllabus-for-CSE-143.pdf)|   132      |
