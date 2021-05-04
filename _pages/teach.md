@@ -5,3 +5,7 @@ excerpt: ""
 author_profile: true
 permalink: /teach/
 ---
+
+| Course Code   | Course Title                        | Class             | Course Syllabus   | Student Count | 
+| -----------   | ------                              | ------            | --------------    | ------------- |
+| CSE-143       | Object oriented programming         | Level-1 Term-I    |                   |   132         |
