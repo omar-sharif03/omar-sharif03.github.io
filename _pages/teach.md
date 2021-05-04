@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Taught the following undergraudate course in CUET. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
+Taught the following undergraudate courses in CUET. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
 
 | Course Code|  Course Title                   | Class             | Course Plan   | Student Count | 
 | ---     | ------                          | --                 | -------    | ------ |
