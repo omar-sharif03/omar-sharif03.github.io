@@ -23,12 +23,12 @@ redirect_from:
 </ul>
 
 
-## <font color="#00cc66"> Research Grants</font>
+## <font color="#541A75"> Research Grants</font>
 
  * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
  * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
  
-## <font color="#00cc66"> Co-curricular</font>
+## <font color="#541A75"> Co-curricular</font>
    * Organized CUET CSE Fest 2017,2018,2019.
    * Organized CUET National Collegiate Programming Contest 2017.
    * Champion of CUET Teachers Association Football Tournament 2019.
