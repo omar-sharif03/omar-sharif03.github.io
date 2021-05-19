@@ -26,7 +26,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET. I love
 
 <b>My latest cv: </b> [<font color= "#990033" >omar-sharif-cv</font>](../files/Omar-Sharif-Resume.pdf)
 
-## <font color="#00cc66"> Updates </font>
+## <font color="#541A75"> Updates </font>
 <!---
 <font size="2">🟤</font> 
 <font size="2">🔴</font> 
@@ -51,7 +51,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET. I love
 -->
 </pre>
 
-## <font color="#00cc66"> NLP Resources </font>   
+## <font color="#541A75"> NLP Resources </font>   
 List of few books, courses and blog posts that I find really helpfull.
 
 * **Books**
