@@ -62,11 +62,12 @@ List of few books, courses and blog posts that I find really helpfull.
 
 * **Courses**
    * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
-   * NTU nlp course (covers state of the techniques) [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
+   * NTU NLP course (covers state of the techniques) [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
    * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
    * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
 
 * **Follow**
+   * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline).   
    * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
    * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
    * NLP with Frineds (bi-weekly meeting) [[link]](https://nlpwithfriends.com/)
