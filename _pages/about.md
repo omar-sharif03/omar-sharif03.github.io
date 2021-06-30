@@ -70,5 +70,6 @@ List of few books, courses and blog posts that I find really helpfull.
 * **Follow**
    * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline).   
    * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
+   * [[Colah's Blog]](http://colah.github.io/).
    * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
    * NLP with Frineds (bi-weekly meeting) [[link]](https://nlpwithfriends.com/)
