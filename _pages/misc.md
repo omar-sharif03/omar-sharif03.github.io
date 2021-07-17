@@ -13,8 +13,9 @@ redirect_from:
 * [ICONIP-2021](https://iconip2021.apnns.org/important-dates/)
 * [CoNIL-2021](https://www.conll.org/2021)
 * [EMNLP-2021](https://2021.emnlp.org/call-for-papers)
+* [ACL-2021](https://2021.aclweb.org/)
 * ~~[Mexican NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/)~~
-*
+
 ## <font color="#00cc66"> Quotes </font>   
 
 Whenever I feel depressed or exhausted, I try to utter few quotes in my mind from here. These points are taken from different books I have read over time.
