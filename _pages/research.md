@@ -36,16 +36,16 @@ Some of the areas I wish to work are,
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
   [<font color="	#993333"> [NAACL-SRW 2021 (acceptance rate: 40%)] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2021.naacl-srw.19/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
 
-  **Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner**
-  🏆 *<font color="#f00"> [Top moodel in multilingual hope speech detection challenge] </font>* 
-  Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque  
+  **Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner**   
+  🏆 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
+  Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque   
   [<font color="	#993333"> [LTEDI@EACL-2021] </font>](https://sites.google.com/view/lt-edi-2021/home)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.ltedi-1.25/)  [<font   color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/CUET_NLP-EACL_2021)  
 
  **Offensive Language Detection from Multilingual Code-Mixed Text using Transformers**  
  *<b><font color="#000">Omar Sharif</font></b>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
   [<font color="#993333"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.35/)  [<font   color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/CUET_NLP-EACL_2021)  
 
- **Investigating Visual and Textual Features to Identify Trolls from Multimodal Social Media Memes**  
+ **Investigating Visual and Textual Features to Identify Trolls from Multimodal Social Media Memes**    
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/) 
  
