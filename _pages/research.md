@@ -22,12 +22,18 @@ Some of the areas I wish to work are,
 
 ## <font color="#00cc66"> Publications </font>  
 
-### <font color="#ff6633"> Journals </font>
+## <font color="#ff6633"> Journals </font>
  
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1XRg4nXHyp4K5zh2TlSl0oq73vYYw-meL/view?usp=sharing) 
-
+  
+ **Detecting Suspicious Texts Using Machine Learning Techniques**  
+  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.47)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
+ 
+ ## <font color="#ff6633"> Conference/Workshops </font>
+ 
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
   [<font color="	#993333"> [NAACL-SRW 2021 (acceptance rate: 40%)] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2021.naacl-srw.19/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
@@ -56,10 +62,6 @@ Some of the areas I wish to work are,
  **TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network**  
  *<b><font color="#000">Omar Sharif</font></b>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
 [<font color="	#993333"> [ICON-2020] </font>](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html)    [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2012.11420) 
-
- **Detecting Suspicious Texts Using Machine Learning Techniques**  
-  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.47)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
   
  **SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews**  
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
