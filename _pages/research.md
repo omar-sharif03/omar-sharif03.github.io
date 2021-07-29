@@ -2,6 +2,7 @@
 title: "Research Interest"
 excerpt: ""
 author_profile: true
+sitemap: false
 permalink: /research/
 redirect_from: 
   - /about.html
