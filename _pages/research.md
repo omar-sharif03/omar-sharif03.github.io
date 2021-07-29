@@ -36,7 +36,8 @@ Some of the areas I wish to work are,
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
   [<font color="	#993333"> [NAACL-SRW 2021 (acceptance rate: 40%)] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2021.naacl-srw.19/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
 
-  **Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner**  
+  **Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner**
+  <font color="#f00">🏆 Top moodel in multilingual hope speech detection challenge</font> 
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque  
   [<font color="	#993333"> [LTEDI@EACL-2021] </font>](https://sites.google.com/view/lt-edi-2021/home)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.ltedi-1.25/)  [<font   color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/CUET_NLP-EACL_2021)  
 
@@ -49,7 +50,7 @@ Some of the areas I wish to work are,
   [<font color="	#993333"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/) 
  
   **Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation**  
-   *<font color="#f00">[🏆 Best paper award (research track)]</font>*   
+   <font color="#f00">🏆 Best paper award (research track)</font>   
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
   
