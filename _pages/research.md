@@ -21,9 +21,10 @@ Some of the areas I wish to work are,
 -->
 
 ## <font color="#00cc66"> Publications </font>  
+<!-- Tab content -->
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'pPublications')" id="pPublicationsDefaultOpen">Journals</button>
-  <button class="tablinks" onclick="openCity(event,'pPatents')">Conference</button>
+  <button class="tablinks" onclick="openCity(event,'pPatents')">Conference/Workshops</button>
 </div>
 
 
