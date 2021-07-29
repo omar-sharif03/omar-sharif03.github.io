@@ -20,9 +20,7 @@ Some of the areas I wish to work are,
   *<font color="#ff6633">Omar Sharif</font>*
 -->
 
-## <font color="#00cc66"> Publications </font>  
-
-## <font color="#ff6633"> Journals </font>
+## <font color="#00cc66"> Journals </font>  
  
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
@@ -32,7 +30,7 @@ Some of the areas I wish to work are,
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.47)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
  
- ## <font color="#ff6633"> Conference/Workshops </font>
+## <font color="#00cc66"> Conference/Workshops </font> 
  
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
