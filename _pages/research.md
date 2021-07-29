@@ -9,9 +9,9 @@ redirect_from:
 
 Some of the areas I wish to work are,
 
- * Undesired (aggressive, abusive, fake, hate) social media text detection and classification
- * Sentiment analysis, Emotion recognition, Question answering, 
- * Multimodal NLP (abuse detection by analyzing text and image, video/image captionaing)
+ * Objectionable (aggressive, abusive, fake, hate, misinformation) content classification
+ * Socail Computing, Sentiment analysis, Emotion recognition, Question answering
+ * Multimodal NLP (analyze text, image, speech and other meta signals to identify undesired content, video/image captionaing)
  * Multilingual and low-resource NLP
   
 <!--
