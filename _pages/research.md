@@ -38,8 +38,13 @@ Some of the areas I wish to work are,
  
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
-  [<font color="	#993333"> [NAACL-SRW 2021 (acceptance rate: 40%)] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2021.naacl-srw.19/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
+  [<font color="	#993333"> [NAACL-SRW 2021 (acceptance rate: 44%)] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2021.naacl-srw.19/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
 
+  **Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation**  
+   🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
+  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
+  
   **Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner**   
  🥇 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque   
@@ -52,11 +57,6 @@ Some of the areas I wish to work are,
  **Investigating Visual and Textual Features to Identify Trolls from Multimodal Social Media Memes**    
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html)  [<font color="#cc00ff">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/) 
- 
-  **Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation**  
-   🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
-  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
   
  **Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media**  
 *<b><font color="#000">Omar Sharif</font></b>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
