@@ -9,7 +9,7 @@ redirect_from:
 
 Some of the areas I wish to work are,
 
- * Objectionable (aggressive, abusive, fake, hate, misinformation) content classification, Social Computing
+ * Objectionable (aggressive, abusive, fake, hate) content classification, Social Computing
  * Sentiment analysis, Emotion recognition, QA, MT, Summarization
  * Multimodal NLP (analyze text, image, speech and other meta signals to identify undesired content, video/image captionaing)
  * Multilingual and low-resource NLP
