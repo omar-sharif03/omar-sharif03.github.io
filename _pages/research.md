@@ -24,11 +24,15 @@ Some of the areas I wish to work are,
  
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1XRg4nXHyp4K5zh2TlSl0oq73vYYw-meL/view?usp=sharing) 
+  [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1NSJcXtXvI0qV1S2f-JdwzrtpjbZIuvlS/view?usp=sharing) 
+  
+ **Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features**  
+ Eftekhar Hossain, *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Nazmul Siddique, Md. Azad Hossain, M. Ali Akber Dewan, Iqbal H. Sarker 
+  [<font color="	#993333"> [Submitted to Expert Systems with Applications ] </font>](https://www.journals.elsevier.com/expert-systems-with-applications)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1JaANjPY-CSczEQeJg9lx1OESdBFwBEKh/view?usp=sharing) 
   
  **Detecting Suspicious Texts Using Machine Learning Techniques**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.47)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
+  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
  
 ## <font color="#00cc66"> Conference/Workshop </font> 
  
