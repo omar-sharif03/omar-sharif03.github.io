@@ -22,11 +22,12 @@ Some of the areas I wish to work are,
 
 ## <font color="#00cc66"> Publications </font>  
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'pJournals')" id="pPublicationsDefaultOpen">Journals</button>
-  <button class="tablinks" onclick="openCity(event,'pCon-work')">Conferences/Workshops</button>
+  <button class="tablinks" onclick="openCity(event, 'pPublications')" id="pPublicationsDefaultOpen">Journals</button>
+  <button class="tablinks" onclick="openCity(event,'pPatents')">Conference</button>
 </div>
 
- <div id="pJournals" class="tabcontent" markdown="1">
+
+ <div id="pPublications" class="tabcontent" markdown="1">
  
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
@@ -78,7 +79,7 @@ Some of the areas I wish to work are,
   [<font color="	#993333"> [ICO-2019] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
 </div>
 
-<div id="pJournals" class="tabcontent" markdown="1">
+<div id="pPatents" class="tabcontent" markdown="1">
 
 **Automatic Detection of Suspicious Bangla Text Using Logistic Regression**  
  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
