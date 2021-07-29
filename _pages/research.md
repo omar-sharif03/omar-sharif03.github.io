@@ -21,6 +21,13 @@ Some of the areas I wish to work are,
 -->
 
 ## <font color="#00cc66"> Publications </font>  
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'pJournals')" id="pPublicationsDefaultOpen">Journals</button>
+  <button class="tablinks" onclick="openCity(event,'pCon-work')">Conferences/Workshops</button>
+</div>
+
+ <div id="pJournals" class="tabcontent" markdown="1">
+ 
   **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [Submitted to Neurocomputing] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1XRg4nXHyp4K5zh2TlSl0oq73vYYw-meL/view?usp=sharing) 
@@ -69,6 +76,14 @@ Some of the areas I wish to work are,
    **Automatic Detection of Suspicious Bangla Text Using Logistic Regression**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [ICO-2019] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
+</div>
+
+<div id="pJournals" class="tabcontent" markdown="1">
+
+**Automatic Detection of Suspicious Bangla Text Using Logistic Regression**  
+ *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [ICO-2019] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
   
+</div>
 
 <b><font color="#53c68c">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
