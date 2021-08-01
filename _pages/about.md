@@ -24,7 +24,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET. I love
 
 <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif@cuet.ac.bd</font>](omar.sharif@cuet.ac.bd)
 
-<b>My latest cv: </b> [<a href="https://drive.google.com/file/d/1bv3QTCzFa1QsedXpYpgy8AW8NRbltTtV/view?usp=sharing"><font color="#cc00ff">omar-sharif-cv</font></a>
+<b>My latest cv: </b> <a href="https://drive.google.com/file/d/1bv3QTCzFa1QsedXpYpgy8AW8NRbltTtV/view?usp=sharing"><font color="#cc00ff">omar-sharif-cv</font></a>
 
 ## <font color="#00cc66"> Updates </font>
 <!---
