@@ -38,6 +38,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET. I love
 -->
 
 <pre>
+<span style="color:rgb(201, 76, 76)">1-6 Aug,21</span>    Virtually attened <a href="https://2021.aclweb.org/">ACL-2021</a>.
 <span style="color:rgb(201, 76, 76)">26 June,21</span>   Successfully organized <a href="https://cuetnlp.com/iwcaut2021/">International Workshop on Computational Analysis of Undesired Texts on Social Media</a>.
 <span style="color:rgb(201, 76, 76)">7 June,21</span>    Presented our <a href="https://aclanthology.org/2021.naacl-srw.19/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.
 <span style="color:rgb(201, 76, 76)">7 Apr,21</span>     Received <b>D&I Award</b> as a support to attend and present my work at <a href="https://2021.eacl.org/">EACL-2021</a>.
