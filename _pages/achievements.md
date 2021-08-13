@@ -1,5 +1,5 @@
 ---
-title: "Honors and Awards"
+title: "Research Grants"
 excerpt: ""
 author_profile: true
 permalink: /achievements/
@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+ * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
+ * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
+ 
+## <font color="#00cc66"> Honors and Awards</font>
 <ul>
   <li> <b><font color= "#737373" >CUET Ex-students merit award</font></b> (2015, 2016, 2017): For obtaining highest GPA in an academic year</li>
   <li> <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional</li>
@@ -22,12 +26,6 @@ redirect_from:
   <li> <b><font color= "#737373" >Primary & high school scholarship</font></b> (2005, 2008): Government of Bangladesh</li>
 </ul>
 
-
-## <font color="#00cc66"> Research Grants</font>
-
- * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
- * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
- 
 ## <font color="#00cc66"> Co-curricular</font>
    * Organized CUET CSE Fest 2017, 2018, 2019.
    * Organized CUET National Collegiate Programming Contest 2017.
