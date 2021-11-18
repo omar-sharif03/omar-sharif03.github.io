@@ -80,6 +80,14 @@ Some of the areas I wish to work are,
   
 ## <font color="#00cc66"> Others </font>
 
-Some of my works with the members of CUET NLP were accepted in several conferences and journals. However, my contribution to these works was <25%. I performed a subset of these three tasks: {helped to identify the problem domain, verify implementation, edited initial manuscript draft}.
+Some collaborative works with CUET NLP members were accepted in several conferences/journals. However, my contribution to these works was <25%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
 
+ **Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network**  
+  Tanzaia Parvin, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
+  
+ **Classification of Textual Sentiment Using Ensemble Technique**  
+  Md. Mashiur Rahaman Mamun, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00922-z)
+  
 <b><font color="#53c68c">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
