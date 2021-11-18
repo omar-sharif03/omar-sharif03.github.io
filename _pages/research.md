@@ -90,8 +90,12 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   Md. Mashiur Rahaman Mamun, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00922-z)
   
- **Automatic Detection of Suspicious Bangla Text Using Logistic Regression**  
+ **BEmoD: Development of Bengali Emotion Dataset for Classifying Expressions of Emotion in Texts**  
   Avishek Das, MD. Asif Iqbal, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [ICO-2020, Springer] </font>](https://www.icico.info/ico2020-virtual-conference)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-68154-8_94)
+  
+  **Towards POS Tagging Methods for Bengali Language: A Comparative Analysis**  
+  Fatima Jahara, Adrita Barua, MD. Asif Iqbal, Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
+  [<font color="	#993333"> [ICO-2020, Springer] </font>](https://www.icico.info/ico2020-virtual-conference)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-68154-8_93)
   
 <b><font color="#53c68c">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
