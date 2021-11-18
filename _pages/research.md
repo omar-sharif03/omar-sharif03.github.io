@@ -84,10 +84,14 @@ Some collaborative works with CUET NLP members were accepted in several conferen
 
  **Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network**  
   Tanzaia Parvin, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
+  [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
   
  **Classification of Textual Sentiment Using Ensemble Technique**  
   Md. Mashiur Rahaman Mamun, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00922-z)
+  [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00922-z)
+  
+ **Automatic Detection of Suspicious Bangla Text Using Logistic Regression**  
+  Avishek Das, MD. Asif Iqbal, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [<font color="	#993333"> [ICO-2020, Springer] </font>](https://www.icico.info/ico2020-virtual-conference)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-68154-8_94)
   
 <b><font color="#53c68c">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
