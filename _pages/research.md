@@ -80,7 +80,7 @@ Some of the areas I wish to work are,
   
 ## <font color="#00cc66"> Others </font>
 
-Some collaborative works with CUET NLP members were accepted in several conferences/journals. However, my contribution to these works was <25%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
+Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <25%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
 
  **Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network**  
   Tanzaia Parvin, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
