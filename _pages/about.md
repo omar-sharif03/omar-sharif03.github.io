@@ -39,6 +39,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET. I love
 
 <pre>
 <span style="color:rgb(201, 76, 76)">7-11 Nov,21</span>  Received <b>D&I Award</b> and virtually attended <a href="https://2021.emnlp.org/">EMNLP-2021</a>.
+<span style="color:rgb(201, 76, 76)">5 Nov,21</span>     Two papers (<a href="https://link.springer.com/article/10.1007/s42979-021-00922-z"><font color="#cc00ff">Sentiment</font></a>, <a href="https://link.springer.com/article/10.1007/s42979-021-00913-0"><font color="#cc00ff">Emotion</font></a>) accepted in <a href="https://www.springer.com/journal/42979">SN Computer Science</a> journal.
 <span style="color:rgb(201, 76, 76)">1-6 Aug,21</span>   Virtually attended <a href="https://2021.aclweb.org/">ACL-2021</a>.
 <span style="color:rgb(201, 76, 76)">26 June,21</span>   Successfully organized <a href="https://cuetnlp.com/iwcaut2021/">International Workshop on Computational Analysis of Undesired Texts on Social Media</a>.
 <span style="color:rgb(201, 76, 76)">7 June,21</span>    Presented our <a href="https://aclanthology.org/2021.naacl-srw.19/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.
