@@ -38,7 +38,7 @@ Some of the areas I wish to work are,
  
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
-  [<font color="	#993333"> [NAACL-SRW 2021 (acceptance rate: 44%)] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2021.naacl-srw.19/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
+  [<font color="	#993333"> [NAACL-SRW 2021] </font>](https://naacl2021-srw.github.io/)  [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2021.naacl-srw.19/)  [<font color="#2d862d"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
 
   **Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation**  
    🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
