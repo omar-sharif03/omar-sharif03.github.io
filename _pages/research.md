@@ -77,5 +77,9 @@ Some of the areas I wish to work are,
    **Automatic Detection of Suspicious Bangla Text Using Logistic Regression**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
+  
+## <font color="#00cc66"> Others </font>
+
+Some of my works with the members of CUET NLP were accepted in several conferences and journals. However, my contribution to these works was <25%. I performed a subset of these three tasks: {helped to identify the problem domain, verify implementation, edited initial manuscript draft}.
 
 <b><font color="#53c68c">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
