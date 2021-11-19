@@ -31,7 +31,7 @@ Some of the areas I wish to work are,
  [<font color="	#993333"> [Submitted to Expert Systems with Applications ] </font>](https://www.journals.elsevier.com/expert-systems-with-applications)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1JaANjPY-CSczEQeJg9lx1OESdBFwBEKh/view?usp=sharing) 
   
  **Detecting Suspicious Texts Using Machine Learning Techniques**  
-  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
   [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
  
 ## <font color="#00cc66"> Conference/Workshop </font> 
