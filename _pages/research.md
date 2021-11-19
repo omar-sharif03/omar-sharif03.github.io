@@ -99,7 +99,7 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   [<font color="	#993333"> [ICO-2020, Springer] </font>](https://www.icico.info/ico2020-virtual-conference)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-68154-8_93)
   
   **Offline Bengali Handwritten Sentence Recognition Using BiLSTM and CTC Networks**  
-  M. A. Muhaimin Sakib, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
+  M. A. Muhaimin Sakib, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque  
   [<font color="	#993333"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
   
 <b><font color="#53c68c">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
