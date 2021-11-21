@@ -78,7 +78,7 @@ Some of the areas I wish to work are,
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
   
-## <font color="#00cc66"> Others </font>
+## <font color="#00cc66"> Others [Mentorship] </font>
 
 Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <25%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
 
