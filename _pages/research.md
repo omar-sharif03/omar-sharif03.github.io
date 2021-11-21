@@ -86,9 +86,17 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   Tanzaia Parvin, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
   
+ **Word Embedding based Textual Semantic Similarity Measure in Bengali**  
+  MD. Asif Iqbal, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H.Sarkar    
+  [<font color="#993333"> [Procedia Computer Science Journal] </font>](https://www.sciencedirect.com/journal/procedia-computer-science)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1877050921020512)
+  
  **Classification of Textual Sentiment Using Ensemble Technique**  
   Md. Mashiur Rahaman Mamun, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00922-z)
+  
+  **Multi-class Sports News Categorization using Machine Learning Techniques: Resource Creation and Evaluation**  
+  Adrita Barua, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [<font color="#993333"> [Procedia Computer Science Journal] </font>](https://www.sciencedirect.com/journal/procedia-computer-science)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1877050921021268)
   
  **BEmoD: Development of Bengali Emotion Dataset for Classifying Expressions of Emotion in Texts**  
   Avishek Das, MD. Asif Iqbal, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
