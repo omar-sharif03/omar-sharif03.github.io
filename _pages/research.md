@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Some of the areas I wish to work are,
+My broad research interest are in Natural Language Processing and Deep Learning. Some of the areas I wish to work are,
 
- * Objectionable (aggressive, abusive, fake, hate) content classification, Social Computing
- * Sentiment analysis, Emotion recognition, QA, MT, Summarization
- * Multimodal NLP (analyze text, image, speech and other meta signals to identify undesired contents, video/image captionaing)
- * Multilingual and low-resource NLP
+ * Multimodal NLP (analyze text, image, speech and other meta signals to build intelligent systems)
+ * Multilingual and low-resource NLP [Sentiment & Emotion analysis, QA, MT, Summarization]
+ * Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
   
 <!--
   ## <font color="#00cc66"> Research Statement </font>  
