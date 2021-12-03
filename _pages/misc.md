@@ -11,10 +11,10 @@ redirect_from:
 * [ACL-2022](https://www.2022.aclweb.org/)
 * [NAACL-2022](https://2022.naacl.org/)
 * [LREC-2022](https://lrec2022.lrec-conf.org/en/about/important-dates/)
+* [COLING-2022](https://coling2022.org/)
 * [ICWSM-2022](https://www.icwsm.org/2021/index.html)
 * [ICONIP-2021](https://iconip2021.apnns.org/important-dates/)
-* [CoNIL-2021](https://www.conll.org/2021)
-* [EMNLP-2021](https://2021.emnlp.org/call-for-papers)
+* ~~[EMNLP-2021](https://2021.emnlp.org/call-for-papers)~~
 * ~~[ACL-2021](https://2021.aclweb.org/)~~
 * ~~[Mexican NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/)~~
 
