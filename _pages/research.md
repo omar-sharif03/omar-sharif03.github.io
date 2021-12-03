@@ -9,7 +9,7 @@ redirect_from:
 
 My broad research interest are in Natural Language Processing and Deep Learning. Some of the areas I wish to work are,
 
- * Multimodal NLP (analyze text, image, speech and other meta signals to build intelligent systems)
+ * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
  * Multilingual and low-resource NLP [Sentiment & Emotion analysis, QA, MT, Summarization]
  * Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
   
@@ -63,7 +63,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  
  **TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network**  
  *<b><font color="#000">Omar Sharif</font></b>*,  Eftekhar Hossain, Mohammed Moshiul Hoque  
-[<font color="	#993333"> [ICON-2020, ACL Indexed] </font>](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html)    [<font color="#cc00ff">[Paper] </font>](https://arxiv.org/abs/2012.11420) 
+[<font color="	#993333"> [ICON-2020, ACL Indexed] </font>](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html)    [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2020.icon-techdofication.8/)
   
  **SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews**  
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
