@@ -68,8 +68,9 @@ List of few books, courses and blog posts that I find really helpfull.
    * Deep Learning [[link]](https://www.deeplearningbook.org/)
 
 * **Courses**
+   * CMU Advanced NLP course [[Advanced NLP]](http://www.phontron.com/class/anlp2021/index.html)   
    * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
-   * NTU NLP course (covers state of the techniques) [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
+   * NTU NLP course [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
    * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
    * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
 
