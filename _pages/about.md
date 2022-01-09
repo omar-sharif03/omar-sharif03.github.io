@@ -24,7 +24,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET. I love
 
 <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif@cuet.ac.bd</font>](omar.sharif@cuet.ac.bd)
 
-<b>My latest cv: </b> <a href="https://drive.google.com/file/d/1bv3QTCzFa1QsedXpYpgy8AW8NRbltTtV/view?usp=sharing"><font color="#990033">omar-sharif-cv</font></a>
+<b>My latest cv: </b> <a href="https://drive.google.com/file/d/1HaXfzku4otnU1iF2E7xnNivfR4NdoUuX/view?usp=sharing"><font color="#990033">omar-sharif-cv</font></a>
 
 ## <font color="#00cc66"> Updates </font>
 <!---
@@ -38,6 +38,7 @@ Previously, I did my B.Sc. in Computer Science and Engineering from CUET. I love
 -->
 
 <pre>
+<span style="color:rgb(201, 76, 76)">02 Jan,22</span>    Feeling awesome!!! Successfully defended my Master's thesis.<a href="https://docs.google.com/presentation/d/1GTHUAWxUmvd5kgwl9xPERwYf0bnkLgbY/edit?usp=sharing&ouid=103730353445379362338&rtpof=true&sd=true"><font color="#cc00ff">[Slides]</font></a>
 <span style="color:rgb(201, 76, 76)">20 Dec,21</span>    <a href="https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset"><font color="#cc00ff">Bengali Aggressive Text Dataset (BAD)</font></a> is released. Hope this dataset will pave the way for undesired/toxic language detection research in Bengali.
 <span style="color:rgb(201, 76, 76)">5 Dec,21</span>     Feeling super happy!!! <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567"><font color="#cc00ff">Paper</font></a> accepted at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing Journal</a>.<font color= "#f00">[IF: 5.719, HI: 143]</font>
 <span style="color:rgb(201, 76, 76)">7-11 Nov,21</span>  Received <b>D&I Award</b> and virtually attended <a href="https://2021.emnlp.org/">EMNLP-2021</a>.
