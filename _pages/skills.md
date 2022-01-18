@@ -21,12 +21,19 @@ Solved 1000+ competitive programming problems in different online platforms as p
 <span style="color:rgb(201, 76, 76)">Codeforces</span>     Solved 500+ problems <a href="https://codeforces.com/profile/omar_sharif"><font color="#ff6633">[omar_sharif]</font></a> 
 <span style="color:rgb(201, 76, 76)">UVA</span>            Solved 200+ problems <a href="https://uhunt.onlinejudge.org/id/479040"><font color="#ff6633">[cuet_fighter]</font></a>  
 <span style="color:rgb(201, 76, 76)">LightOJ</span>        Solved 120+ problems <a href="https://lightoj.com/user/omar-sharif119"><font color="#ff6633">[omar-sharif]</font></a> 
-<span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 120+ problems <a href="https://csacademy.com/user/omar_sharif"><font color="#ff6633">[omar_sharif]</font></a>  -->
+<span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 120+ problems <a href="https://csacademy.com/user/omar_sharif"><font color="#ff6633">[omar_sharif]</font></a>  
 <pre>
 <span style="color:rgb(201, 76, 76)">Codeforces</span>     Solved 500+ problems <a href="https://codeforces.com/profile/omar_sharif"><font>[omar_sharif]</font></a> 
 <span style="color:rgb(201, 76, 76)">UVA</span>            Solved 200+ problems <a href="https://uhunt.onlinejudge.org/id/479040"><font>[cuet_fighter]</font></a>  
 <span style="color:rgb(201, 76, 76)">LightOJ</span>        Solved 120+ problems <a href="https://lightoj.com/user/omar-sharif119"><font>[omar-sharif]</font></a> 
 <span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 50+ problems <a href="https://csacademy.com/user/omar_sharif"><font>[omar_sharif]</font></a>  
+</pre>
+-->
+<pre>
+<span style="color:rgb(201, 76, 76)">Codeforces</span>     Solved 500+ problems 
+<span style="color:rgb(201, 76, 76)">UVA</span>            Solved 200+ problems 
+<span style="color:rgb(201, 76, 76)">LightOJ</span>        Solved 120+ problems 
+<span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 50+ problems
 </pre>
 
 ## <font color="#00cc66"> Leadership </font>
