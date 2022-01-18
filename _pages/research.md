@@ -31,9 +31,17 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
  **Detecting Suspicious Texts Using Machine Learning Techniques**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
-  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527) 
+  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
+ 
+ **BEmoC: A Corpus for Identifying Emotion in Bengali Texts**  
+  MD. Asif Iqbal, Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H.Sarker   
+  [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
 ## <font color="#00cc66"> Conference/Workshop </font> 
+  
+  **MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes**  
+  Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque  
+  [<font color="	#993333"> [Submitted LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/)
  
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
@@ -86,7 +94,7 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
   
  **Word Embedding based Textual Semantic Similarity Measure in Bengali**  
-  MD. Asif Iqbal, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H.Sarkar    
+  MD. Asif Iqbal, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H.Sarker    
   [<font color="#993333"> [Procedia Computer Science Journal] </font>](https://www.sciencedirect.com/journal/procedia-computer-science)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1877050921020512)
   
  **Classification of Textual Sentiment Using Ensemble Technique**  
@@ -97,6 +105,10 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   Adrita Barua, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="#993333"> [Procedia Computer Science Journal] </font>](https://www.sciencedirect.com/journal/procedia-computer-science)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1877050921021268)
   
+ **Automatic Categorization of News Articles and Headlines Using Multi-layer Perceptron**  
+  Fatima Jahara, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque   
+  [<font color="	#993333"> [ICO-2021, Springer] </font>](https://www.icico.info/)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_16)
+ 
  **BEmoD: Development of Bengali Emotion Dataset for Classifying Expressions of Emotion in Texts**  
   Avishek Das, MD. Asif Iqbal, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
   [<font color="	#993333"> [ICO-2020, Springer] </font>](https://www.icico.info/ico2020-virtual-conference)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-68154-8_94)
