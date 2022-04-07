@@ -41,11 +41,11 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
   **M-BAD: A Multilabel Dataset for Detecting Aggressive Texts and Their Targets**  
   *<b><font color="#000">Omar Sharif</font></b>*, Eftekhar Hossain, Mohammed Moshiul Hoque  
-  [<font color="	#993333"> [Submitted CONSTRAINT@ACL-2022] </font>](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/)
+  [<font color="	#993333"> [Accepted at CONSTRAINT@ACL-2022] </font>](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/)
   
   **MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes**  
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque  
-  [<font color="	#993333"> [Submitted LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/)
+  [<font color="	#993333"> [Accepted LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/)
  
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
