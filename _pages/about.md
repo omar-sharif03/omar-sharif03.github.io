@@ -40,6 +40,9 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 -->
 
 <pre>
+<span style="color:rgb(201, 76, 76)">6 Apr,22</span>     One paper accepted at <a href="https://lcs2.iiitd.edu.in/CONSTRAINT-2022/">CONSTRAINT@ACL-2022</a>.
+<span style="color:rgb(201, 76, 76)">4 Apr,22</span>     One paper accepted at <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> main conference.
+<span style="color:rgb(201, 76, 76)">26 Mar,22</span>    4 shared task papers accepted at <a href="https://www.2022.aclweb.org/workshops">ACL-2022</a> workshops.
 <span style="color:rgb(201, 76, 76)">02 Jan,22</span>    Feeling awesome!!! Successfully defended my Master's thesis.<a href="https://docs.google.com/presentation/d/1GTHUAWxUmvd5kgwl9xPERwYf0bnkLgbY/edit?usp=sharing&ouid=103730353445379362338&rtpof=true&sd=true"><font color="#cc00ff">[Slides]</font></a>
 <span style="color:rgb(201, 76, 76)">20 Dec,21</span>    <a href="https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset"><font color="#cc00ff">Bengali Aggressive Text Dataset (BAD)</font></a> is released. Hope this dataset will pave the way for undesired/toxic language detection research in Bengali.
 <span style="color:rgb(201, 76, 76)">5 Dec,21</span>     Feeling super happy!!! <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567"><font color="#cc00ff">Paper</font></a> accepted at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing Journal</a>.<font color= "#f00">[IF: 5.719, HI: 143]</font>
