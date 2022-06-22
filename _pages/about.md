@@ -40,6 +40,8 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 -->
 
 <pre>
+<span style="color:rgb(201, 76, 76)">17 Jun,22</span>     Feeling awesome!!! Our journal on Multimodal Learning accepted at <a href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences">JKSU</a> Journal.<font color= "#f00">[IF: 13.437]</font>
+<span style="color:rgb(201, 76, 76)">22-27 May,22</span> Received <b>D&I Award</b> as a support to attend and present our papers at <a href="https://www.2022.aclweb.org/conference-programme">ACL-2022</a>.
 <span style="color:rgb(201, 76, 76)">6 Apr,22</span>     One paper accepted at <a href="https://lcs2.iiitd.edu.in/CONSTRAINT-2022/">CONSTRAINT@ACL-2022</a>.
 <span style="color:rgb(201, 76, 76)">4 Apr,22</span>     One paper accepted at <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> main conference.
 <span style="color:rgb(201, 76, 76)">26 Mar,22</span>    4 shared task papers accepted at <a href="https://www.2022.aclweb.org/workshops">ACL-2022</a> workshops.
