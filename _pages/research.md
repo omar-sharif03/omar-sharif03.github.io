@@ -27,7 +27,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
  **Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features**  
  Eftekhar Hossain, *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque, M. Ali Akber Dewan, Nazmul Siddique, Md. Azad Hossain     
- [<font color="	#993333"> [JKSU (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
+ [<font color="	#993333"> [JKSUCIS (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
   
  **Detecting Suspicious Texts Using Machine Learning Techniques**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
