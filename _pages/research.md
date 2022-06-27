@@ -26,8 +26,8 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   [<font color="	#993333"> [Neurocomputing (IF: 5.719, HI: 143)] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) [<font color="#2d862d"> [Dataset] </font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
   
  **Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features**  
- Eftekhar Hossain, *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Nazmul Siddique, Md. Azad Hossain, M. Ali Akber Dewan, Iqbal H. Sarker        
- [<font color="	#993333"> [Submitted to Expert Systems with Applications ] </font>](https://www.journals.elsevier.com/expert-systems-with-applications)  [<font color="#cc00ff">[Preprint (draft)] </font>](https://drive.google.com/file/d/1JaANjPY-CSczEQeJg9lx1OESdBFwBEKh/view?usp=sharing) 
+ Eftekhar Hossain, *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque, M. Ali Akber Dewan, Nazmul Siddique, Md. Azad Hossain     
+ [<font color="	#993333"> [JKSU (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
   
  **Detecting Suspicious Texts Using Machine Learning Techniques**  
   *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
@@ -41,11 +41,11 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
   **M-BAD: A Multilabel Dataset for Detecting Aggressive Texts and Their Targets**  
   *<b><font color="#000">Omar Sharif</font></b>*, Eftekhar Hossain, Mohammed Moshiul Hoque  
-  [<font color="	#993333"> [Accepted at CONSTRAINT@ACL-2022] </font>](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/)
+  [<font color="	#993333"> [CONSTRAINT@ACL-2022] </font>](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/) [<font color="#cc00ff">[Paper] </font>](https://aclanthology.org/2022.constraint-1.9/)
   
   **MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes**  
   Eftekhar Hossain, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque  
-  [<font color="	#993333"> [Accepted at LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/)
+  [<font color="	#993333"> [LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/) [<font color="#cc00ff">[Paper] </font>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
  
   **Emotion Classification in a Resource Constrained Language Using Transformer-based Approach**  
   Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H. Sarker   
