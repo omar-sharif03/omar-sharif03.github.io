@@ -16,7 +16,7 @@ redirect_from:
 
 <p align="justify">
 
-Currently, I am working as a Lecturer at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages. I am also excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
+Currently, I am working as a ~Lecturer~ Assitant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages. I am also excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
 </p> 
  
 <p align="justify">
@@ -40,6 +40,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 -->
 
 <pre>
+<span style="color:rgb(201, 76, 76)">27 Jun,22</span>    Promoted to Assitant Professor in Dept. of CSE, CUET. Feeling super happy!!!
 <span style="color:rgb(201, 76, 76)">20-25 Jun,22</span> Virtually attended <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> and presented our paper <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf"><font color="#cc00ff">MemoSen</font></a>
 <span style="color:rgb(201, 76, 76)">17 Jun,22</span>    Our journal on Multimodal Learning accepted at <a href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences">JKSU</a> Journal.<font color= "#f00">[IF: 13.437]</font> Feeling awesome!!! 
 <span style="color:rgb(201, 76, 76)">22-27 May,22</span> Received <b>D&I Award</b> as a support to attend and present our papers at <a href="https://www.2022.aclweb.org/conference-programme">ACL-2022</a>.
