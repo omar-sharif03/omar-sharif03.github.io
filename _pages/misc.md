@@ -19,6 +19,16 @@ redirect_from:
 
 This part of my life... this little part is called happyness...
 
+<img
+  src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d23.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d22.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">  
 <img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d23.jpg" alt="d23" width="220" />|
 <img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d8.jpg" alt="d8" width="220" />
 <img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/dd.jpg" alt="dd" width="220"/>
