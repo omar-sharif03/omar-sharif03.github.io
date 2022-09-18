@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Omar Sharif"
   avatar           : "Sharif.jpg"
-  bio              : "Graduate student at CUET-CSE, advised by Dr. Moshiul Hoque. Interested to apply deep learning to understand natural language."
-  location         : #"Chittagong, Bangladesh"
-  employer         : "Lecturer at Dept. of CSE, CUET."
+  bio              : "Graduate student at Dartmouth-CS, advised by Prof. Sarah M. Preum. Interested to apply deep learning to understand natural language."
+  location         : "Hanover, New Hampshire"
+  employer         : #"Lecturer at Dept. of CSE, CUET."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            : "omar.sharif@cuet.ac.bd"
