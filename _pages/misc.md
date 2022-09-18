@@ -14,8 +14,7 @@ redirect_from:
 * [COLING-2022](https://coling2022.org/)
 * [ICWSM-2022](https://www.icwsm.org/2022/index.html/)
 * [EMNLP-2022](https://2022.emnlp.org/)
-* ~~[ACL-2021](https://2021.aclweb.org/)~~
-* ~~[Mexican NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/)~~
+
 
 ## <font color="#00cc66"> Quotes </font>   
 
