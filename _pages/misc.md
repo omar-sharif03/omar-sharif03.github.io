@@ -15,12 +15,14 @@ redirect_from:
 * [ICWSM-2022](https://www.icwsm.org/2022/index.html/)
 * [EMNLP-2022](https://2022.emnlp.org/)
 
-<img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/images/Sharif.jpg" alt="d8" width="220" />
+
+  
+![Alt text](https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/images/Sharif.jpg)
 
 
 <!---
 ## <font color="#00cc66"> Gallery </font>
-
+<a href="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/images/Sharif.jpg">
 This part of my life... this little part is called happyness...
 
 <img
