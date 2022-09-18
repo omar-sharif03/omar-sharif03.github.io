@@ -16,10 +16,6 @@ redirect_from:
 * [EMNLP-2022](https://2022.emnlp.org/)
 
 
-  
-![Alt text](https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/images/Sharif.jpg)
-
-
 <!---
 ## <font color="#00cc66"> Gallery </font>
 <a href="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/images/Sharif.jpg">
