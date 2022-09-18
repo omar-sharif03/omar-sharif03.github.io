@@ -7,25 +7,34 @@ redirect_from:
   - /about.html
 ---
 
+**[Dartmouth ](https://home.dartmouth.edu/)**   
+*PhD in Computer Science and Engineering*   
+Study Period: <b>September 2022 - Present</b>   
+Supervisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: Persist Lab
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Master of Science in Computer Science and Engineering*   
 Study Period: <b>August 2019 - January 2022</b>   
-CGPA: <b>4.00/4.00</b>  
-Position: <b>1<sup>st</sup>/48</b>    
 Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/) Lab: [CUET NLP](https://cuetnlp.com)
 
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Bachelor of Science in Computer Science and Engineering*   
 Study Period: <b>March 2014 - November 2018</b>   
-CGPA: <b>3.90/4.00</b>  
-Position: <b>1<sup>st</sup>/103</b>   
 Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/) 
 
+<!---
+CGPA: <b>3.90/4.00</b>  
+Position: <b>1<sup>st</sup>/103</b>
+CGPA: <b>4.00/4.00</b>  
+Position: <b>1<sup>st</sup>/48</b>
+-->
 
 ## <font color="#00cc66"> Employment </font>
- **Lecturer <font color="#541A75">[July 2019 - Present]</font>**   
+ **Assistant Professor <font color="#541A75">[July 2022 - Present (on leave)]</font>**   
+ *Computer Science and Engineering, CUET*
+ 
+ **Lecturer <font color="#541A75">[July 2019 - June 2022]</font>**   
  *Computer Science and Engineering, CUET*
 
  **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
