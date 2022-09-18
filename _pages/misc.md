@@ -15,6 +15,8 @@ redirect_from:
 * [ICWSM-2022](https://www.icwsm.org/2022/index.html/)
 * [EMNLP-2022](https://2022.emnlp.org/)
 
+
+<!---
 ## <font color="#00cc66"> Gallery </font>
 
 This part of my life... this little part is called happyness...
@@ -50,6 +52,7 @@ This part of my life... this little part is called happyness...
 <img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d15.jpg" alt="d15" width="220"/>
 <img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d2.jpg" alt="d2" width="220"/>
 <img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d3.jpg" alt="d3" width="220"/>
+-->
 
 ## <font color="#00cc66"> Quotes </font>   
 
