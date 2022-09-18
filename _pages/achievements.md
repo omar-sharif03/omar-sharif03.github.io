@@ -12,6 +12,7 @@ redirect_from:
  
 ## <font color="#00cc66"> Honors and Awards</font>
 <ul>
+  <li> <b><font color= "#737373" > Presidential Graduate Fellow</font></b> (2022): Awarded to only two incoming graduate student in Dartmouth</li>
   <li> <b><font color= "#737373" >CUET Ex-students merit award</font></b> (2015, 2016, 2017): For obtaining highest GPA in an academic year</li>
   <li> <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional</li>
   <li> <b><font color= "#737373" >Best paper award</font></b>: CONSTRAINT collocated with AAAI-2021</li>
