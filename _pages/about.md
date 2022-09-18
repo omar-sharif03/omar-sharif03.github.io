@@ -16,14 +16,16 @@ redirect_from:
 
 <p align="justify">
 
-  Currently, I am working as a <strike>Lecturer</strike> Assitant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages. I am also excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
+I am a First Year PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am fortunate to be advised by <a href="https://web.cs.dartmouth.edu/people/sarah-masud-preum">Prof. Sarah M. Preum</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am enthusiastic Multimodal NLP research. I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
 </p> 
- 
+ <!---
+ I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
+-->
 <p align="justify">
-Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://cuetnlp.com/people/"> Dr. Moshiul Hoque</a> as a member of the <a href="https://cuetnlp.com/people/"> CUET NLP Lab</a>. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
+Previously, I am worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://cuetnlp.com/people/"> Dr. Moshiul Hoque</a> as a member of the <a href="https://cuetnlp.com/people/"> CUET NLP Lab</a>. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
 </p>
 
-<b>Contact: 📧</b> [<font color= "#990033" >omar.sharif@cuet.ac.bd</font>](omar.sharif@cuet.ac.bd)
+<b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
 
 <b>My latest cv: </b> <a href="https://drive.google.com/file/d/1HaXfzku4otnU1iF2E7xnNivfR4NdoUuX/view?usp=sharing"><font color="#990033">omar-sharif-cv</font></a>
 
@@ -40,6 +42,8 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 -->
 
 <pre>
+<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Awarded Presidential Graduate Fellowship from Dartmouth.
+<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Joined <a href="https://home.dartmouth.edu/">Dartmouth</a> to pursue my PhD in CS.
 <span style="color:rgb(201, 76, 76)">27 Jun,22</span>    Promoted to Assitant Professor in Dept. of CSE, CUET. Feeling super happy!!!
 <span style="color:rgb(201, 76, 76)">20-25 Jun,22</span> Virtually attended <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> and presented our paper <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf"><font color="#cc00ff">MemoSen</font></a>
 <span style="color:rgb(201, 76, 76)">17 Jun,22</span>    Our journal on Multimodal Learning accepted at <a href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences">JKSU</a> Journal.<font color= "#f00">[IF: 13.437]</font> Feeling awesome!!! 
