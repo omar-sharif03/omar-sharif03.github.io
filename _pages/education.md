@@ -9,7 +9,7 @@ redirect_from:
 
 **[Dartmouth ](https://home.dartmouth.edu/)**   
 *PhD in Computer Science and Engineering*   
-Study Period: <b>September 2022 - Present</b>   
+Study Period: <b>September 2022 - Ongoing</b>   
 Supervisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: Persist Lab
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
