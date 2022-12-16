@@ -35,19 +35,19 @@ Solved 1000+ competitive programming problems in different online platforms as p
 ## <font color="#00cc66"> Leadership </font>
 
 **CUET NLP Lab**   
-<b><font color= "#737373" >Mentor</font></b>  [Aug 2019 - Present] 
+<b><font color= "#737373" >Mentor</font></b>  [Aug 2019 - Aug 2022] 
 
   * Meet weekly with the undergrads working under CUET NLP lab. Discuss research problems, share ideas and track their progress.
   * Teach students the basics of deep learning and NLP.
 
 **Competitive Programming Club, CUET**    
-<b><font color= "#737373" >Coach</font></b>  [Jan 2019 - Present] 
+<b><font color= "#737373" >Coach</font></b>  [Jan 2019 - Aug 2022] 
 
   * Teach students advance data structures, number theory and algorithms.
   * Organize contests, keep track of individual performance and form up teams. 
 
 **ACM Student Chapter, CUET**    
-<b><font color= "#737373" >Vice Chair</font></b>  [Mar 2021 - Present] 
+<b><font color= "#737373" >Vice Chair</font></b>  [Mar 2021 - Aug 2022] 
 
   * Lead a team of 30+ active members. Plan and asses the growth of the chapter.
   * Arrange research seminars, talks and workshops on different trending topics. 
