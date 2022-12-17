@@ -23,7 +23,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
 
-## <font color="#737373"> Journals </font>  
+## <font > Journals </font>  
   
 <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
 <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
@@ -45,7 +45,8 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
   [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
-## <font color="#737373"> Conferences </font> 
+ 
+## <font> Conferences </font> 
 
   <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
@@ -86,10 +87,10 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
  <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
- [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
+ [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57)        
  
   
- ## <font color="#737373"> Workshops </font>
+ ## <font> Workshops </font>
  
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
  🥇 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
