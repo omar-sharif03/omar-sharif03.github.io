@@ -11,7 +11,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 
  * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
  * Multilingual and low-resource NLP [Sentiment & Emotion analysis, QA, MT, Summarization]
- * Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
+ * Clinical NLP, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
   
 <!--
   ## <font color="#00cc66"> Research Statement </font>  
@@ -19,11 +19,11 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   *<font color="#ff6633">Omar Sharif</font>*
 -->
 
-## <font color="#00cc66"> Journal </font>  
+## <font color="#00cc66"> Journals </font>  
  
-  **Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers**  
-  *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
-  [<font color="	#993333"> [Neurocomputing (IF: 5.719, HI: 143)] </font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#cc00ff">[Paper] </font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) [<font color="#2d862d"> [Dataset] </font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
+ <b><font color="	#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers </font></b> </br>
+  *<b><font color="#2d862d"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque    
+  [[Neurocomputing (IF: 5.719, HI: 143)]](https://www.journals.elsevier.com/neurocomputing)  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) [[Dataset]](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
   
  **Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features**  
  Eftekhar Hossain, *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque, M. Ali Akber Dewan, Nazmul Siddique, Md. Azad Hossain     
@@ -37,7 +37,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   MD. Asif Iqbal, Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H.Sarker   
   [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
-## <font color="#00cc66"> Conference/Workshop </font> 
+## <font color="#00cc66"> Conferences/Workshops </font> 
   
   **M-BAD: A Multilabel Dataset for Detecting Aggressive Texts and Their Targets**  
   *<b><font color="#000">Omar Sharif</font></b>*, Eftekhar Hossain, Mohammed Moshiul Hoque  
