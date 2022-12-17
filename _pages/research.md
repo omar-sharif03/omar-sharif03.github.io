@@ -29,13 +29,13 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  Eftekhar Hossain, <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque, M. Ali Akber Dewan, Nazmul Siddique, Md. Azad Hossain     
  [<font color=" #4796C9"> [JKSUCIS (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)  [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
   
- **Detecting Suspicious Texts Using Machine Learning Techniques**  
-  *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
-  [<font color="	#993333"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#cc00ff">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
+ <font color="#993333">Detecting Suspicious Texts Using Machine Learning Techniques</font>
+  <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
+  [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
  
- **BEmoC: A Corpus for Identifying Emotion in Bengali Texts**  
-  MD. Asif Iqbal, Avishek Das, *<b><font color="#000">Omar Sharif</font></b>*, Mohammed Moshiul Hoque, Iqbal H.Sarker   
-  [<font color="#993333"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#cc00ff">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
+ <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
+  MD. Asif Iqbal, Avishek Das, <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
+  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
 ## <font color="#00cc66"> Conferences/Workshops </font> 
   
