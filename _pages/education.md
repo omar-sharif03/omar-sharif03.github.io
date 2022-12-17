@@ -30,7 +30,7 @@ CGPA: <b>4.00/4.00</b>
 Position: <b>1<sup>st</sup>/48</b>
 -->
 
-## <font color="#00cc66"> Appointments </font>
+## <font color="#00cc66"> Academic Appointments </font>
  **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
  *Departmet of Computer Science, Dartmouth College*
 
