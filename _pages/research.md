@@ -19,23 +19,23 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   *<font color="#ff6633">Omar Sharif</font>*
 -->
 
-## <font color="#00cc66"> Journal </font>  
+## <font color="#00cc66"> Journals </font>  
  
- <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                
+<font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
 <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque    
-[<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
+[<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
   
  <font color="#993333">Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features </font>   
  Eftekhar Hossain, <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque, M. Ali Akber Dewan, Nazmul Siddique, Md. Azad Hossain     
- [<font color=" #4796C9"> [JKSUCIS (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)  [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
+ [<font color=" #4796C9"> [JKSUCIS (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) / [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
   
  <font color="#993333">Detecting Suspicious Texts Using Machine Learning Techniques  </font>     
   <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
-  [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci)  [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
+  [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci) / [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
  
  <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
   MD. Asif Iqbal, Avishek Das, <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
-  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979)  [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
+  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
 ## <font color="#00cc66"> Conferences/Workshops </font> 
   
