@@ -148,3 +148,25 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   Monisha Biswas, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [ICMLBDA-2021, Springer] </font>](icmlbda.iaasse.org) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-82469-3_3)
   
+<font color="#993333"> Fine-grained Categorization of Abusive Comments using Logistic Regression </font>  
+ Alamgir Hossain <b>et al.</b>,  
+[<font color="#4796C9"> [TamilNLP@ACL-22] </font>](https://dravidianlangtech.github.io/2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.dravidianlangtech-1.34/)
+ 
+ <font color="#993333"> Exploiting Textual Features to Classify Sentiment of Multimodal Movie Reviews </font>  
+ Nasehatul Mustakim <b>et al.</b>,  
+[<font color="#4796C9"> [DravidianLang Tech@ACL-22] </font>](https://dravidianlangtech.github.io/2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.dravidianlangtech-1.30/)
+
+
+ <font color="#993333"> Investigating Deep Learning Techniques to Detect Multimodal Troll Memes </font>  
+ Md Hasan <b>et al.</b>,  
+[<font color="#4796C9"> [DravidianLang Tech@ACL-22] </font>](https://dravidianlangtech.github.io/2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.dravidianlangtech-1.27/)
+
+
+<font color="#993333"> Multi-Class Textual Emotion Detection from Social Media using Transformer </font>  
+Nasehatul Mustakim <b>et al.</b>,  
+[<font color="#4796C9"> [TamilNLP@ACL-22] </font>](https://dravidianlangtech.github.io/2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.dravidianlangtech-1.31/)
+
+
+
+
+  
