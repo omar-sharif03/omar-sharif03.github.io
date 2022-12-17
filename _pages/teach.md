@@ -20,6 +20,10 @@ Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses
 
 
 
+## <font color="#00cc66"> Invited Training/Workshops </font>  
+
+
+
 
 
 <!---
