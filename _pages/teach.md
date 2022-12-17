@@ -10,8 +10,8 @@ redirect_from:
 Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
 
 | Role | Affiliation | Course Title | Class Size | Syllabus |
-|---     | ------                          | --                 | -------    | ------ |
-|Teaching assistant | Dartmouth | Algorithms | 55 | [<font color= "#990033" >🎯</font>](../files/Course-Syllabus-for-CSE-143.pdf)|
+|-- | ----          | --          | ----         | -----|
+|Teaching assistant | Dartmouth | Algorithms | 55 | [<font color= "#990033" >🎯 [COSC-31] </font>](https://www.cs.dartmouth.edu/~deepc/cs31-lecture-notes.htm)|
 
 <!---
 | Course Code|  Course Title                   | Class             | Course Plan   | Student Count | 
