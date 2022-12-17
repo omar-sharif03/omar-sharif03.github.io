@@ -31,12 +31,16 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
  <font color="#993333">Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features </font>   
  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, et al.     
- [<font color=" #4796C9"> [JKSUCIS (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) / [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
+ [<font color=" #4796C9"> [JKSUCIS (IF: 8.83)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) / [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
   
  <font color="#993333">Detecting Suspicious Texts Using Machine Learning Techniques  </font>     
   <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
   [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci) / [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
  
+ <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
+  Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
+  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
+  
  <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
   MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
   [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
@@ -95,11 +99,8 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
 ## <font color="#737373"> Others [Mentorship] </font>
 
-Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <25%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
+Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <=20%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
 
- <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
-  Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
   
  <font color="#993333">Word Embedding based Textual Semantic Similarity Measure in Bengali </font> 
   MD. Asif Iqbal, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker    
