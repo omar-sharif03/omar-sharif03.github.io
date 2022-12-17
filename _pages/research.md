@@ -79,7 +79,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  
  <font color="#993333">Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Naïve Bayes</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Eftekhar Hossain   
- [<font color="#4796C9"> [ICASERT-2019, IEEE] </font>](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
+ [<font color="#4796C9"> [ICASERT-2019, IEEE] </font>](https://ieeexplore.ieee.org/xpl/conhome/8931128/proceeding) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
   
  <font color="#993333">Offline Bengali Handwritten Sentence Recognition Using BiLSTM and CTC Networks</font>  
   M. A. Muhaimin Sakib, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
