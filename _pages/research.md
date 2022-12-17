@@ -26,7 +26,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 [<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
   
  <font color="#993333">Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features </font>   
- Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, M. Ali Akber Dewan, Nazmul Siddique, Md. Azad Hossain     
+ Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, et al.     
  [<font color=" #4796C9"> [JKSUCIS (IF: 13.473)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) / [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
   
  <font color="#993333">Detecting Suspicious Texts Using Machine Learning Techniques  </font>     
@@ -118,7 +118,7 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   [<font color="#4796C9"> [ICO-2020, Springer] </font>](https://www.icico.info/ico2020-virtual-conference) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-68154-8_94)
   
  <font color="#993333">Towards POS Tagging Methods for Bengali Language: A Comparative Analysis</font>  
-  Fatima Jahara, Adrita Barua, MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
+  Fatima Jahara, Adrita Barua, MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, et al.   
   [<font color="#4796C9"> [ICO-2020, Springer] </font>](https://www.icico.info/ico2020-virtual-conference) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-68154-8_93)
   
   <font color="#993333">An Empirical Framework for Bangla Word Sense Disambiguation Using Statistical Approach</font>  
