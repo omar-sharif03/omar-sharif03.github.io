@@ -19,7 +19,11 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   *<font color="#ff6633">Omar Sharif</font>*
 -->
 
-## <font color="#00cc66"> Journals </font>  
+# <font color="#00cc66"> Publications </font> 
+
+<b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
+
+## <font color="#737373"> Journals </font>  
   
 <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
 <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
@@ -37,7 +41,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
   [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
-## <font color="#00cc66"> Conferences/Workshops </font> 
+## <font color="#737373"> Conferences/Workshops </font> 
   
   <font color="#993333"> M-BAD: A Multilabel Dataset for Detecting Aggressive Texts and Their Targets </font>  
   <b><font color="#2d862d">Omar Sharif</font></b>, Eftekhar Hossain, Mohammed Moshiul Hoque  
@@ -89,7 +93,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
   [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
   
-## <font color="#00cc66"> Others [Mentorship] </font>
+## <font color="#737373"> Others [Mentorship] </font>
 
 Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <25%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
 
@@ -129,4 +133,3 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   M. A. Muhaimin Sakib, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
   
-<b><font color="#53c68c">To get the full list of my papers please check this</font> </b>[[google scholar page].](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
