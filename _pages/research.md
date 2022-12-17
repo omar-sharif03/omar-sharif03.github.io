@@ -88,9 +88,6 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
  [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
  
- <font color="#993333"> Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media</font>  
-<b><font color="#2d862d">Omar Sharif</font></b>,  Eftekhar Hossain, Mohammed Moshiul Hoque  
- [Preprint@arXiv]  / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2101.03291) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/CONSTRAINT-AAAI2021) 
   
  ## <font color="#737373"> Workshops </font>
  
@@ -109,6 +106,9 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
   [<font color="#4796C9"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html) / [<font color="#4796C9">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/) 
   
+ <font color="#993333"> Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media</font>  
+<b><font color="#2d862d">Omar Sharif</font></b>,  Eftekhar Hossain, Mohammed Moshiul Hoque  
+ [Preprint@arXiv]  / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2101.03291) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/CONSTRAINT-AAAI2021) 
  
  <font color="#993333"> TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>,  Eftekhar Hossain, Mohammed Moshiul Hoque  
