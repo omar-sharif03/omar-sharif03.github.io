@@ -21,9 +21,9 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 
 ## <font color="#00cc66"> Journals </font>  
  
- <font color="	#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers</font><br/>
+ <font color="	#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers</font>
  <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [Neurocomputing (IF: 5.719, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
+  [<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing)  [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
   
  **Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features**  
  Eftekhar Hossain, *<b><font color="#000"> Omar Sharif</font></b>*, Mohammed Moshiul Hoque, M. Ali Akber Dewan, Nazmul Siddique, Md. Azad Hossain     
