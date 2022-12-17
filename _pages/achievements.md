@@ -17,6 +17,7 @@ redirect_from:
   <li> <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional</li>
   <li> <b><font color= "#737373" >Best paper award</font></b>: CONSTRAINT collocated with AAAI-2021</li>
   <li> <b><font color= "#737373" >Winner</font></b>: Hope speech detection shared task, EACL-2021</li>
+  <li> <b><font color= "#737373" >D&I Award</font></b> (EACL-21, EMNLP-21, ACL-22): To attend and present our papers</li>
   <li> <b><font color= "#737373" >2<sup>nd</sup> runner-up</font></b>: Multimodal meme detection and offenisve language classification shared task, EACL-2021</li>
   <li> <b><font color= "#737373" >27<sup>th</sup> position</font></b> (among 1600+ teams): ACM ICPC Dhaka Regional Preliminary, 2017</li>
   <li> <b><font color= "#737373" >31<sup>st</sup> position</font></b> (among 150 selected teams): National Collegiate Programming Contest, 2017</li>
