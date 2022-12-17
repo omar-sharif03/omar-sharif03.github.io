@@ -63,20 +63,32 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
   [<font color="#4796C9"> [NAACL-SRW 2021] </font>](https://naacl2021-srw.github.io/) / [<font color="#4796C9">[Paper]</font>](https://aclanthology.org/2021.naacl-srw.19/) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)
   
-  <font color="#993333"> Align and Conquer: An Ensemble Approach to Classify Aggressive Texts from Social Media </font> 
+  <font color="#993333"> Align and Conquer: An Ensemble Approach to Classify Aggressive Texts from Social Media </font>    
   <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [SPICSCON-2021, IEEE] </font>](https://ieeexplore.ieee.org/xpl/conhome/9885262/proceeding) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/9885420) 
+  [<font color="#4796C9"> [SPICSCON-2021, IEEE] </font>](https://ieeexplore.ieee.org/xpl/conhome/9885262/proceeding) / [<font color="#4796C9">[Paper]     </font>](https://ieeexplore.ieee.org/abstract/document/9885420) 
 
-  <font color="#993333"> Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation</font> 
-   🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
-  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
+ <font color="#993333"> Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation </font>     
+  🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
+ <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
+ [<font color="#4796C9"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
   
+ <font color="#993333"> SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews</font> 
+ Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
+ [<font color="#4796C9"> [HIS-2020, Springer] </font>](http://www.mirlabs.net/his20/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2011.09684)
+ 
+ <font color="#993333">Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Naïve Bayes</font> 
+ <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Eftekhar Hossain   
+ [<font color="#4796C9"> [ICASERT-2019, IEEE] </font>](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
+  
+ <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
+ <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
+ [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
   
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
  🥇 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque   
   [<font color="#4796C9"> [LTEDI@EACL-2021] </font>](https://sites.google.com/view/lt-edi-2021/home) / [<font color="#4796C9">[Paper] </font>](https://www.aclweb.org/anthology/2021.ltedi-1.25/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/CUET_NLP-EACL_2021)  
+
 
  <font color="#993333"> Offensive Language Detection from Multilingual Code-Mixed Text using Transformers</font>  
  <b><font color="#2d862d">Omar Sharif</font></b>,  Eftekhar Hossain, Mohammed Moshiul Hoque  
@@ -90,21 +102,13 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 <b><font color="#4796C9">Omar Sharif</font></b>,  Eftekhar Hossain, Mohammed Moshiul Hoque  
  [Preprint@arXiv]  / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2101.03291) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/CONSTRAINT-AAAI2021) 
  
+ 
  <font color="#993333"> TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>,  Eftekhar Hossain, Mohammed Moshiul Hoque  
 [<font color="#4796C9"> [ICON-2020, ACL Indexed] </font>](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2020.icon-techdofication.8/)
   
- <font color="#993333"> SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews</font> 
-  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
-  [<font color="#4796C9"> [HIS-2020, Springer] </font>](http://www.mirlabs.net/his20/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2011.09684)
- 
-  <font color="#993333">Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Naïve Bayes</font> 
-  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Eftekhar Hossain   
-  [<font color="#4796C9"> [ICASERT-2019, IEEE] </font>](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
   
-   <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
-  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
+
   
 ## <font color="#737373"> Others [Mentorship] </font>
 
