@@ -46,23 +46,32 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
 ## <font color="#737373"> Conferences/Workshops </font> 
+
+  <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
+  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
+  [<font color="#4796C9"> [LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/) / [<font color="#4796C9">[Paper] </font>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
+  
+  <font color="#993333"> MUTE: A Multimodal Dataset for Detecting Hateful Memes</font>  
+  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
+  [<font color="#4796C9"> [AACL-SRW 2022] </font>](https://www.aacl2022.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.aacl-srw.5/)
   
   <font color="#993333"> M-BAD: A Multilabel Dataset for Detecting Aggressive Texts and Their Targets </font>  
   <b><font color="#2d862d">Omar Sharif</font></b>, Eftekhar Hossain, Mohammed Moshiul Hoque  
   [<font color="	#4796C9"> [CONSTRAINT@ACL-2022] </font>](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.constraint-1.9/)
-  
-  <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
-  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
-  [<font color="#4796C9"> [LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/) / [<font color="#4796C9">[Paper] </font>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
  
   <font color="#993333"> Emotion Classification in a Resource Constrained Language Using Transformer-based Approach </font>  
   Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
-  [<font color="#4796C9"> [NAACL-SRW 2021] </font>](https://naacl2021-srw.github.io/) / [<font color="#4796C9">[Paper]</font>](https://aclanthology.org/2021.naacl-srw.19/) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)  
+  [<font color="#4796C9"> [NAACL-SRW 2021] </font>](https://naacl2021-srw.github.io/) / [<font color="#4796C9">[Paper]</font>](https://aclanthology.org/2021.naacl-srw.19/) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)
+  
+  <font color="#993333"> Align and Conquer: An Ensemble Approach to Classify Aggressive Texts from Social Media </font> 
+  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
+  [<font color="#4796C9"> [SPICSCON-2021, IEEE] </font>](https://ieeexplore.ieee.org/xpl/conhome/9885262/proceeding) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/9885420) 
 
   <font color="#993333"> Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation</font> 
    🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
   <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
   [<font color="#4796C9"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
+  
   
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
  🥇 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
