@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-**[Dartmouth ](https://home.dartmouth.edu/)**   
-*PhD in Computer Science and Engineering*   
+**[Dartmouth College](https://home.dartmouth.edu/)**   
+*PhD in Computer Science*   
 Study Period: <b>September 2022 - Ongoing</b>   
 Supervisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: Persist Lab
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Master of Science in Computer Science and Engineering*   
+*Masters in Computer Science and Engineering*   
 Study Period: <b>August 2019 - January 2022</b>   
-Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/) Lab: [CUET NLP](https://cuetnlp.com)
+Supervisor: [Prof. Moshiul Hoque](https://cuetnlp.com/people/) Lab: [CUET NLP](https://cuetnlp.com)
 
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Bachelor of Science in Computer Science and Engineering*   
+*Bachelors in Computer Science and Engineering*   
 Study Period: <b>March 2014 - November 2018</b>   
-Supervisor: [Dr. Moshiul Hoque](https://cuetnlp.com/people/) 
+Supervisor: [Prof. Moshiul Hoque](https://cuetnlp.com/people/) 
 
 <!---
 CGPA: <b>3.90/4.00</b>  
@@ -30,15 +30,18 @@ CGPA: <b>4.00/4.00</b>
 Position: <b>1<sup>st</sup>/48</b>
 -->
 
-## <font color="#00cc66"> Employment </font>
- **Assistant Professor <font color="#541A75">[July 2022 - Present (on leave)]</font>**   
- *Computer Science and Engineering, CUET*
+## Appointments <font color="#00cc66">  </font>
+ **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
+ *Departmet of Computer Science, Dartmouth College*
+
+ **Assistant Professor (on leave) <font color="#541A75">[July 2022 - Aug 2022]</font>**   
+ *Departmet of Computer Science and Engineering, CUET*
  
  **Lecturer <font color="#541A75">[July 2019 - June 2022]</font>**   
- *Computer Science and Engineering, CUET*
+ *Department of Computer Science and Engineering, CUET*
 
  **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
- *Computer Science and Engineering, CUET*
+ *CUET NLP Lab*
 
 ## <font color="#00cc66"> Certifications </font>
 
