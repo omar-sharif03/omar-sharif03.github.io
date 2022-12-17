@@ -21,9 +21,21 @@ Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses
 
 
 ## <font color="#00cc66"> Invited Training/Workshops </font>  
+**Training on AI and Machine Learning with Python**  <br/>
+Organized by: Sheikh Kamal IT Business Incubator, CUET. <br/>
+[<font color= "#990033" >🔗 [Resources] </font>](https://github.com/eftekhar-hossain/SKBI_Training) *[June-2022]*
 
+**Oraganized Workshop on Computational Analysis of Undesired Texts on Social Media**  <br/>
+Organized by: CUET NLP Lab. <br/>
+[<font color= "#990033" >🔗 [Event] </font>](https://www.facebook.com/events/473508927324119/?active_tab=discussion) *[June-2021]*
 
+**Organized Workshop on Computational Linguistics & Bangla Language Processing**  <br/>
+Organized by: Dept. of CSE and CUET NLP Lab. <br/>
+[<font color= "#990033" >🔗 [Event] </font>](https://www.cuet.ac.bd/clblp/) *[Sep-2019]*
 
+**Training on Competitive Programming**  <br/>
+Organized by: CUET Competitive Programming Club.  <br/>
+[<font color= "#990033" >🔗 [Resources] </font>](https://drive.google.com/file/d/15nceicASw_4x3fxHrPZwarNAZlWLoTAi/view?usp=sharing)
 
 
 <!---
