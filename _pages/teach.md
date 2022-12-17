@@ -7,8 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Taught the following undergraudate courses in CUET. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
+Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
 
+| Role | Affiliation | Course Title | Class Size | Syllabus |
+|---     | ------                          | --                 | -------    | ------ |
+|Teaching assistant | Dartmouth | Algorithms | 55 | [<font color= "#990033" >🎯</font>](../files/Course-Syllabus-for-CSE-143.pdf)|
+
+<!---
 | Course Code|  Course Title                   | Class             | Course Plan   | Student Count | 
 | ---     | ------                          | --                 | -------    | ------ |
 | CSE-143    | OOP (C++)                       | Level-1 Term-II (CSE-19)|[<font color= "#990033" >CSE-143</font>](../files/Course-Syllabus-for-CSE-143.pdf)|   132      |
@@ -18,6 +23,7 @@ Taught the following undergraudate courses in CUET. I conducted theory courses a
 | CSE-326    | Internet Programming - Sessional| Level-3 Term-I (CSE-17)| [<font color= "#990033" >CSE-326</font>](../files/Course-Syllabus-for-CSE-326.pdf)|   130     |
 | CSE-144    | OOP - Sessional (C++)           | Level-1 Term-II (CSE-18)|[<font color= "#990033" >CSE-144</font>](../files/Lab_Manual_OOP_144.pdf)|   130     |
 | CSE-191    | Computer Programming (C)        | Level-1 Term-II (MIE-18)|                   |   30      |
+-->
 
 
 <!---
