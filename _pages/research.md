@@ -146,7 +146,7 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   
   <font color="#993333">An Empirical Framework for Bangla Word Sense Disambiguation Using Statistical Approach</font>  
   Monisha Biswas, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
-  [<font color="#4796C9"> [ICMLBDA-2021, Springer] </font>](icmlbda.iaasse.org) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-82469-3_3)
+  [<font color="#4796C9"> [ICMLBDA-2021, Springer] </font>](https://link.springer.com/conference/icmlbda) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-82469-3_3)
   
 <font color="#993333"> Fine-grained Categorization of Abusive Comments using Logistic Regression </font>  
  Alamgir Hossain <b>et al.</b>,  
