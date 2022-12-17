@@ -12,6 +12,15 @@ Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses
 | Role | Affiliation | Course Title | Class Size | Syllabus |
 |-- | ----          | --          | ----         | -----|
 |Teaching assistant | Dartmouth | Algorithms | 55 | [<font color= "#990033" >🎯 [COSC-31] </font>](https://www.cs.dartmouth.edu/~deepc/cs31-lecture-notes.htm)|
+|Co-instructor | CUET | Object-oriented programming (C++) | 132 | <font color= "#990033" >🎯 [CSE-143] </font>](../files/Course-Syllabus-for-CSE-143.pdf)|
+|Co-instructor | CUET | Object-oriented programming (Sessional) | 132 | <font color= "#990033" >🎯 [CSE-144] </font>](../files/Lab_Manual_OOP_144.pdf)|
+|Co-instructor | CUET | Structured Programming (C) | 130 | <font color= "#990033" >🎯 [CSE-141] </font>](../files/Course_Syllabus.pdf)|
+|Co-instructor | CUET | Structured Programming (Sessional) | 130 | <font color= "#990033" >🎯 [CSE-142] </font>](../files/CSE-142-Lecture-Plan.pdf)|
+|Co-instructor | CUET | Internet Programming (Sessional) | 65 | <font color= "#990033" >🎯 [CSE-326] </font>](../files/Course-Syllabus-for-CSE-326.pdf)|
+
+
+
+
 
 <!---
 | Course Code|  Course Title                   | Class             | Course Plan   | Student Count | 
