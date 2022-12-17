@@ -45,7 +45,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
   [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
  
-## <font color="#737373"> Conferences/Workshops </font> 
+## <font color="#737373"> Conferences </font> 
 
   <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
@@ -80,10 +80,17 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Eftekhar Hossain   
  [<font color="#4796C9"> [ICASERT-2019, IEEE] </font>](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
   
+ <font color="#993333">Offline Bengali Handwritten Sentence Recognition Using BiLSTM and CTC Networks</font>  
+  M. A. Muhaimin Sakib, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
+ [<font color="#4796C9"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
+  
  <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
  [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57) 
   
+  
+ ## <font color="#737373"> Workshops </font>
+ 
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
  🥇 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque   
@@ -93,6 +100,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  <font color="#993333"> Offensive Language Detection from Multilingual Code-Mixed Text using Transformers</font>  
  <b><font color="#2d862d">Omar Sharif</font></b>,  Eftekhar Hossain, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [DravidianLangTech@EACL-2021] </font>](https://dravidianlangtech.github.io/2021/index.html) / [<font color="#4796C9">[Paper] </font>](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.35/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/CUET_NLP-EACL_2021)  
+ 
 
  <font color="#993333"> Investigating Visual and Textual Features to Identify Trolls from Multimodal Social Media Memes</font>    
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
@@ -108,12 +116,9 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 [<font color="#4796C9"> [ICON-2020, ACL Indexed] </font>](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2020.icon-techdofication.8/)
   
   
-
-  
 ## <font color="#737373"> Others [Mentorship] </font>
 
 Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <=20%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
-
   
  <font color="#993333">Word Embedding based Textual Semantic Similarity Measure in Bengali </font> 
   MD. Asif Iqbal, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker    
@@ -142,8 +147,4 @@ Some collaborative works with CUET NLP members were accepted in several conferen
   <font color="#993333">An Empirical Framework for Bangla Word Sense Disambiguation Using Statistical Approach</font>  
   Monisha Biswas, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [ICMLBDA-2021, Springer] </font>](icmlbda.iaasse.org) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-82469-3_3)
-  
-  <font color="#993333">Offline Bengali Handwritten Sentence Recognition Using BiLSTM and CTC Networks</font>  
-  M. A. Muhaimin Sakib, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
-  [<font color="#4796C9"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
   
