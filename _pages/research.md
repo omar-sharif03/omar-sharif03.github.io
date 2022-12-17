@@ -90,7 +90,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57)        
  
   
-## <font color="#737373"> Others [Mentorship] </font>
+## <font > Workshops </font>
  
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
  🥇 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
@@ -116,7 +116,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 [<font color="#4796C9"> [ICON-2020, ACL Indexed] </font>](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2020.icon-techdofication.8/)
   
   
-## <font color="#737373"> Others [Mentorship] </font>
+## <font > Others [Mentorship] </font>
 
 Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <=20%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
   
