@@ -19,7 +19,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   *<font color="#ff6633">Omar Sharif</font>*
 -->
 
-## <font color="#00cc66"> Journals </font>  
+## <font color="#00cc66"> Journal </font>  
  
  <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers</font>\
 <font color="#2d862d">Omar Sharif</font>, Mohammed Moshiul Hoque    
