@@ -9,9 +9,10 @@ redirect_from:
 
 My broad research interest are in Natural Language Processing and Deep Learning. Some of the areas I wish to work are,
 
+ * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
  * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
- * Multilingual and low-resource NLP [Sentiment & Emotion analysis, QA, MT, Summarization]
- * Clinical NLP, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
+ * Multilingual and low-resource NLP [Sentiment & Emotion analysis, QA, Summarization]
+ 
   
 <!--
   ## <font color="#00cc66"> Research Statement </font>  
