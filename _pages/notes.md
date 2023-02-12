@@ -6,7 +6,7 @@ permalink: /notes/
 redirect_from: 
   - /about.html
 ---
-My hand notes while I completed the <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a>. on Coursera.
+My hand notes while I completed the <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> on Coursera.
   
  * Neural Networks and Deep Learning <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
  * Improving Deep Neural Networks  <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
