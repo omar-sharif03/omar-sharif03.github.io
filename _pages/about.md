@@ -79,6 +79,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 List of few books, courses and blog posts that I find really helpfull.
 
 * **Books**
+   * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
    * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
    * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
    * Natural Language Processing in Action [[link]](https://www.manning.com/books/natural-language-processing-in-action)
@@ -92,10 +93,9 @@ List of few books, courses and blog posts that I find really helpfull.
    * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
 
 * **Follow**
-   * ACL YEAR-ROUND MENTORSHIP [[Link]](https://mentorship.aclweb.org/Home.html)  
+   * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)  
    * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline).   
    * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
    * Colah's Blog [[Link]](http://colah.github.io/).
    * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
-   * NLP with Frineds (bi-weekly meeting) [[Link]](https://nlpwithfriends.com/)
    
