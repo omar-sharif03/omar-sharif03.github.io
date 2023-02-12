@@ -26,6 +26,7 @@ Few blog posts/links that I found really useful to understand various fundamenta
 * <span style="color:rgb(201, 76, 76)">The Illustrated Transformer</span> <a href="https://jalammar.github.io/illustrated-transformer/"><font color="#cc00ff">[Link]</font></a>
 * <span style="color:rgb(201, 76, 76)">The Annotated Transformer</span> <a href="http://nlp.seas.harvard.edu/annotated-transformer/"><font color="#cc00ff">[Link]</font></a>
 * <span style="color:rgb(201, 76, 76)">Visualizing Transformer Language Models</span> <a href="https://jalammar.github.io/illustrated-gpt2/"><font color="#cc00ff">[Link]</font></a>
+* <span style="color:rgb(201, 76, 76)">The State of Transfer Learning in NLP</span> <a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/"><font color="#cc00ff">[Link]</font></a>
 </pre>
 
   
