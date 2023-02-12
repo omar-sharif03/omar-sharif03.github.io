@@ -6,13 +6,19 @@ permalink: /notes/
 redirect_from: 
   - /about.html
 ---
- 
-  <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.
+My hand notes while I completed the <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a>. on Coursera.
+  
+ * Neural Networks and Deep Learning <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
+ * Improving Deep Neural Networks  <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
+ * Structuring Machine Learning Projects <a href="https://drive.google.com/file/d/1P6iF2SFhkT9jWwTU431mN644HGYcQdpu/view?usp=sharing">Note</a>.
+ * Convolutional Neural Networks <a href="https://drive.google.com/file/d/1bCqlppOAW270Q4ZEv3lI6uw0-Zs1BI23/view?usp=sharing">Note</a>.
+ * Sequence Models <a href="https://drive.google.com/file/d/14o0ptgBZw8sdzFXg35NqEL5Ar8KrN3_L/view?usp=sharing">Note</a>.
+
 
 ## <font color="#00cc66"> Useful Links </font>
 Few blog posts/links that I found really useful to understand various fundamental concepts of NLP.
 <pre>
-* <span style="color:rgb(201, 76, 76)">Andrej Karpathy's coding-based backpropagation post</span> <a href="http://karpathy.github.io/neuralnets/"><[Link]</a>
+* <span style="color:rgb(201, 76, 76)">Andrej Karpathy's coding-based backpropagation post</span> <a href="http://karpathy.github.io/neuralnets/">[Link]</a>
 * <span style="color:rgb(201, 76, 76)">Andrej Karpathy's blog on RNNs</span> <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">[Link]</a>
 * <span style="color:rgb(201, 76, 76)">Understanding LSTM Networks</span> <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">[Link]</a>
 * <span style="color:rgb(201, 76, 76)">The Illustrated Word2vec</span> <a href="https://jalammar.github.io/illustrated-word2vec/">[Link]</a>
