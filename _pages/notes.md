@@ -15,7 +15,8 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  
   
 
-## <font color="#00cc66"> Useful Links </font> 
+## <font color="#00cc66"> Useful Links </font>
+Few blog posts/links that I found really useful to understand various fundamental concepts of NLP.
 <pre>
 * <span style="color:rgb(201, 76, 76)">Andrej Karpathy's coding-based backpropagation post</span> <a href="http://karpathy.github.io/neuralnets/"><font color="#cc00ff">[Link]</font></a>
 * <span style="color:rgb(201, 76, 76)">Andrej Karpathy's blog on RNNs</span> <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/"><font color="#cc00ff">[Link]</font></a>
@@ -23,8 +24,8 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 * <span style="color:rgb(201, 76, 76)">The Illustrated Word2vec</span> <a href="https://jalammar.github.io/illustrated-word2vec/"><font color="#cc00ff">[Link]</font></a>
 * <span style="color:rgb(201, 76, 76)">Mechanics of Seq2seq Models With Attention</span> <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/"><font color="#cc00ff">[Link]</font></a>
 * <span style="color:rgb(201, 76, 76)">The Illustrated Transformer</span> <a href="https://jalammar.github.io/illustrated-transformer/"><font color="#cc00ff">[Link]</font></a>
-
-
+* <span style="color:rgb(201, 76, 76)">The Annotated Transformer</span> <a href="http://nlp.seas.harvard.edu/annotated-transformer/"><font color="#cc00ff">[Link]</font></a>
+* <span style="color:rgb(201, 76, 76)">Visualizing Transformer Language Models</span> <a href="https://jalammar.github.io/illustrated-gpt2/"><font color="#cc00ff">[Link]</font></a>
 </pre>
 
   
