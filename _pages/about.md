@@ -78,6 +78,9 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> NLP Resources </font>   
 List of few books, courses and blog posts that I find really helpfull.
 
+* **Advices**
+   * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)  
+
 * **Books**
    * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
    * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
