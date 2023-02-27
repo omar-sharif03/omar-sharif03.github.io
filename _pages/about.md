@@ -82,6 +82,7 @@ List of few books, courses and blog posts that I find really helpfull.
    * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
    * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
    * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
+   * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
 
 * **Books**
    * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
