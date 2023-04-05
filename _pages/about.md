@@ -29,7 +29,7 @@ I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under 
 -->
 <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
 
-<b>My latest cv: </b> Omar-Sharif-CV [<a href="https://drive.google.com/file/d/1zCmoK8xkBbxZGSM2B_c2aerp2CDq4Aw7/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1ZMmBFlb0dyR8yt0rcJWUtELN2ffRQhaV/view?usp=sharing"><font color="#990033">Short</font></a>]
+<b>My latest CV: </b> Omar-Sharif-CV [<a href="https://drive.google.com/file/d/1zCmoK8xkBbxZGSM2B_c2aerp2CDq4Aw7/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1ZMmBFlb0dyR8yt0rcJWUtELN2ffRQhaV/view?usp=sharing"><font color="#990033">Short</font></a>]
 
 
 <!---
