@@ -31,7 +31,7 @@ I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under 
 
 <b>My latest cv: </b> Omar-Sharif-CV [<a href="https://drive.google.com/file/d/1zCmoK8xkBbxZGSM2B_c2aerp2CDq4Aw7/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1ZMmBFlb0dyR8yt0rcJWUtELN2ffRQhaV/view?usp=sharing"><font color="#990033">Short</font></a>]
 
-## <font color="#00cc66"> Updates </font>
+
 <!---
 I am also pursuing my M.Sc. from CUET . My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies.
 <font size="2">🟤</font> 
@@ -42,8 +42,9 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <font size="2">🔵</font> 
 <font size="2">🟣</font> 
 -->
-
-<pre>
+## <font color="#00cc66"> Updates </font>
+<div style="height: 300px; overflow: auto;">
+<pre style="max-height: 100%; overflow: auto;">
 <span style="color:rgb(201, 76, 76)">20-23 Nov,22</span> Presented our <a href="https://aclanthology.org/2022.aacl-srw.5/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.
 <span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Awarded Presidential Graduate Fellowship from Dartmouth.
 <span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Joined <a href="https://home.dartmouth.edu/">Dartmouth</a> to pursue my PhD in CS.
@@ -74,6 +75,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <font size="2">⚫</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
 -->
 </pre>
+</div>
 
 ## <font color="#00cc66"> NLP Resources </font>   
 List of few books, courses and blog posts that I find really helpfull.
