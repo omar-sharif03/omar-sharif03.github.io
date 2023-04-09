@@ -28,6 +28,7 @@ Few blog posts/links that I found really useful to understand various fundamenta
 * <span style="color:rgb(201, 76, 76)">Visualizing Transformer Language Models</span> <a href="https://jalammar.github.io/illustrated-gpt2/">[Link]</a>
 * <span style="color:rgb(201, 76, 76)">The State of Transfer Learning in NLP</span> <a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/">[Link]</a>
 * <span style="color:rgb(201, 76, 76)">The Illustrated BERT, ELMo, and co.</span> <a href="https://jalammar.github.io/illustrated-bert/">[Link]</a>
+* <span style="color:rgb(201, 76, 76)">A Visual Guide to Using BERT</span> <a href="https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/">[Link]</a>
 * <span style="color:rgb(201, 76, 76)">Various BERT Pre-Training Methods</span> <a href="https://medium.com/analytics-vidhya/an-overview-of-the-various-bert-pre-training-methods-c365512342d8">[Link]</a>
 </pre>
 
