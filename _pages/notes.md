@@ -17,15 +17,15 @@ My hand notes while I completed the <a href="https://www.coursera.org/specializa
 A subset of papers that I found useful in clarifying my understanding of various NLP topics. 
 <pre>
 * <span style="color:rgb(201, 76, 76)"><a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a></span> 
-* <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/1301.3781">[Word2Vec]</a> <a href="https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html">[Negative Sampling]</a> <a href="https://aclanthology.org/D14-1162.pdf">[GloVe]</a> </span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/1301.3781">[Word2Vec]</a>/<a href="https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html">[Negative Sampling]</a>/<a href="https://aclanthology.org/D14-1162.pdf">[GloVe]</a> </span>
 * <span style="color:rgb(201, 76, 76)"><a href="https://aclanthology.org/D14-1179.pdf">Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation</a> </span>
 * <span style="color:rgb(201, 76, 76)"><a href="https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf">Sequence to Sequence Learning with Neural Networks</a> </span>
 * <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/pdf/1409.0473.pdf">Neural Machine Translation by Jointly Learning to Align and Translate (Paper that introduces Attention)</a> </span>
 * <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/1508.04025">Effective Approaches to Attention-based Neural Machine Translation</a> </span>
 * <span style="color:rgb(201, 76, 76)"><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">Attention Is All You Need</a></span>
-* <span style="color:rgb(201, 76, 76)"><a href="https://aclanthology.org/N18-1202/">[ELMo]</a> <a href="https://arxiv.org/pdf/1810.04805.pdf">[BERT]</a> <a href="https://arxiv.org/abs/1907.11692">[RoBERTa]</a> </span>
-* <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/2003.10555">[ELECTRA]</a> <a href="https://arxiv.org/abs/1909.11942">[ALBERT]</a> <a href="https://arxiv.org/abs/1906.08237">[XLNet]</a> </span>
-* <span style="color:rgb(201, 76, 76)"><a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">[GPT]</a> <a href="https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf">[GPT-2]</a> <a href="https://arxiv.org/abs/2005.14165">[GPT-3]</a> </span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://aclanthology.org/N18-1202/">[ELMo]</a>/<a href="https://arxiv.org/pdf/1810.04805.pdf">[BERT]</a>/<a href="https://arxiv.org/abs/1907.11692">[RoBERTa]</a> </span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/2003.10555">[ELECTRA]</a>/<a href="https://arxiv.org/abs/1909.11942">[ALBERT]</a>/<a href="https://arxiv.org/abs/1906.08237">[XLNet]</a></span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">[GPT]</a>/<a href="https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf">[GPT-2]</a>/<a href="https://arxiv.org/abs/2005.14165">[GPT-3]</a></span>
 * <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/1910.10683">T5 (an awesome paper)</a></span>
 </pre>
 
