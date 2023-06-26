@@ -13,6 +13,20 @@ My hand notes while I completed the <a href="https://www.coursera.org/specializa
  * Convolutional Neural Networks <a href="https://drive.google.com/file/d/1bCqlppOAW270Q4ZEv3lI6uw0-Zs1BI23/view?usp=sharing">Note</a>.
  * Sequence Models <a href="https://drive.google.com/file/d/14o0ptgBZw8sdzFXg35NqEL5Ar8KrN3_L/view?usp=sharing">Note</a>.
 
+## <font color="#00cc66"> Classical NLP Paper </font>
+I found these papers useful in clarifying my understanding of various NLP topics. 
+<pre>
+* <span style="color:rgb(201, 76, 76)"><a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a> </span> 
+* <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/1301.3781">[Word2Vec]</a> <a href="https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html">[Negative Sampling]</a> <a href="https://aclanthology.org/D14-1162.pdf">[GloVe]</a> </span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://aclanthology.org/D14-1179.pdf">Learning Phrase Representations using RNN Encoder–Decoder
+for Statistical Machine Translation</a> </span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf">Sequence to Sequence Learning with Neural Networks</a> </span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/pdf/1409.0473.pdf">Neural Machine Translation by Jointly Learning to Align and Translate (Paper that introduces Attention) </a> </span>
+* <span style="color:rgb(201, 76, 76)"><a href="https://aclanthology.org/D14-1179.pdf">Learning Phrase Representations using RNN Encoder–Decoder
+for Statistical Machine Translation</a> </span>
+
+</pre>
+
 
 ## <font color="#00cc66"> Useful Links </font>
 Few blog posts/links that I found really useful to understand various fundamental concepts of NLP.
