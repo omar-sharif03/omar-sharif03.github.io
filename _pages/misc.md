@@ -1,12 +1,12 @@
 ---
-title: "Upcoming"
+title: "Quotes"
 excerpt: ""
 author_profile: true
 permalink: /misc/
 redirect_from: 
   - /about.html
 ---
-
+<!---
 * ACL Rolling Review [[Deadline: 15th of every month]](https://aclrollingreview.org/)
 * [ACL-2022](https://www.2022.aclweb.org/)
 * [NAACL-2022](https://2022.naacl.org/)
@@ -14,7 +14,7 @@ redirect_from:
 * [COLING-2022](https://coling2022.org/)
 * [ICWSM-2022](https://www.icwsm.org/2022/index.html/)
 * [EMNLP-2022](https://2022.emnlp.org/)
-
+-->
 
 <!---
 ## <font color="#00cc66"> Gallery </font>
