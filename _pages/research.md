@@ -24,6 +24,16 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
 
+## <font > Works in Progress </font> 
+<font color="#993333">Text Encoders Lack Knowledge: Prompting Strategies for Domain-Specific Semantic Textual Similarity</font>     
+*<font >Submitted to [<font color="#4796C9">[EMNLP-2023]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)</font>*  
+
+<font color="#993333">Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection</font>     
+*<font >Submitted to [<font color="#4796C9">[EMNLP-2023]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)</font>*  
+
+<font color="#993333">Chain-of-Thought Embeddings for Stance Detection on Social Media</font>     
+*<font >Submitted to [<font color="#4796C9">[EMNLP-2023]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)</font>*  
+
 ## <font > Journals </font>  
   
 <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
