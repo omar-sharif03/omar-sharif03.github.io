@@ -48,6 +48,9 @@ My broad research interest are in Natural Language Processing and Deep Learning.
  
  
 ## <font> Conferences </font> 
+ <font color="#993333"> Theme-driven Keyphrase Extraction to Analyze Social Media Discourse</font>  
+  William Romano, <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
+  [To appear <font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2023/index.html/call_for_submissions.html) / [<font color="#4796C9">[PrePrint] </font>](https://arxiv.org/abs/2301.11508)
 
   <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
