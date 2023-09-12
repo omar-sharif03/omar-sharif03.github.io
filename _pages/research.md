@@ -26,13 +26,15 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 
 ## <font > Works in Progress </font> 
 <font color="#993333">Text Encoders Lack Knowledge: Prompting Strategies for Domain-Specific Semantic Textual Similarity</font>     
-*<font >Submitted to EMNLP-2023</font>*  
+*<font >Under Review</font>*  
 
+<!--
 <font color="#993333">Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection</font>     
 *<font >Submitted to EMNLP-2023</font>*  
 
 <font color="#993333">Chain-of-Thought Embeddings for Stance Detection on Social Media</font>     
 *<font >Submitted to EMNLP-2023</font>*  
+-->
 
 ## <font > Journals </font>  
   
