@@ -3,8 +3,7 @@ title: "Research Interest"
 excerpt: ""
 author_profile: true
 permalink: /research/
-redirect_from: 
-  - /about.html
+
 ---
 
 My broad research interest are in Natural Language Processing and Deep Learning. Some of the areas I wish to work are,
