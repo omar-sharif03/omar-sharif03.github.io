@@ -8,9 +8,9 @@ permalink: /research/
 
 My broad research interest are in Natural Language Processing and Deep Learning. Some of the areas I wish to work are,
 
+ * Large Language Models, Multilingual and low‐resource NLP
  * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
  * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
- * Multilingual and low-resource NLP [Sentiment & Emotion analysis, QA, Summarization]
  
   
 <!--
@@ -35,7 +35,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 *<font >Submitted to EMNLP-2023</font>*  
 -->
 <font color="#993333">Chain-of-Thought Embeddings for Stance Detection on Social Media</font>     
-*<font >Under Review</font>*  
+*<font >Under Review</font>* 
 
 
 ## <font > Journals </font>  
@@ -136,7 +136,7 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   
 ## <font > Others [Mentorship] </font>
 
-Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <=20%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
+Some collaborative works with CUET NLP members were accepted in several conferences/ journals. However, my contribution to these works was <=25%. I performed a subset of these tasks: {Concpetualization, Verify implementation, Review and Edited draft manuscript}.
   
  <font color="#993333">Word Embedding based Textual Semantic Similarity Measure in Bengali </font> 
   MD. Asif Iqbal, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker    
