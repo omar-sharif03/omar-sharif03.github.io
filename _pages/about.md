@@ -16,20 +16,20 @@ redirect_from:
 
 <p align="justify">
 
-I am a First Year PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am fortunate to be advised by <a href="https://web.cs.dartmouth.edu/people/sarah-masud-preum">Prof. Sarah M. Preum</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP research. I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
+I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am fortunate to be advised by <a href="https://web.cs.dartmouth.edu/people/sarah-masud-preum">Prof. Sarah M. Preum</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP research. I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
 </p> 
  <!---
  I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
 -->
 <p align="justify">
-I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the <a href="https://cuetnlp.com/people/"> CUET NLP Lab</a>. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
+I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest. I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket. Occasionally, I play carrom, chess, and card as well.
 </p>
  <!---
  Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
 -->
 <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
 
-<b>My latest CV: </b> Omar-Sharif-CV [<a href="https://drive.google.com/file/d/1zCmoK8xkBbxZGSM2B_c2aerp2CDq4Aw7/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1ZMmBFlb0dyR8yt0rcJWUtELN2ffRQhaV/view?usp=sharing"><font color="#990033">Short</font></a>]
+<b>My latest CV: </b> Omar-Sharif-CV [<a href="https://drive.google.com/file/d/1ggUpwNyVATOB-H4OQzSJAUiiGNJAQ9s_/view?usp=sharing"><font color="#990033">Long</font></a>, <a href="https://drive.google.com/file/d/1t4CkBH8LP0Vdrn4QUCxJa3HUGEXHyH0b/view?usp=sharing"><font color="#990033">Short</font></a>]
 
 
 <!---
@@ -45,6 +45,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
+<span style="color:rgb(201, 76, 76)">19 Sep,23</span>    Presented a <a href="https://drive.google.com/file/d/180rgB5PVcHhKjfn8Q4M94sejQ5NnoRA8/view?usp=sharing"><font>poster</font></a> at <a href="https://www.c4tbh.org/mental-health-ai-symposium/"> Digital Mental Health & AI Symposium</a> organized by <a href="https://www.c4tbh.org/">CTBH</a>.
 <span style="color:rgb(201, 76, 76)">15 July,23</span>   One <a href="https://arxiv.org/abs/2301.11508"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>.
 <span style="color:rgb(201, 76, 76)">20-23 Nov,22</span> Presented our <a href="https://aclanthology.org/2022.aacl-srw.5/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.
 <span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Awarded Presidential Graduate Fellowship from Dartmouth.
