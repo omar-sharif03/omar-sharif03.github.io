@@ -45,7 +45,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">19 Sep,23</span>    Presented a <a href="https://drive.google.com/file/d/180rgB5PVcHhKjfn8Q4M94sejQ5NnoRA8/view?usp=sharing"><font>poster</font></a> at <a href="https://www.c4tbh.org/mental-health-ai-symposium/"> Digital Mental Health & AI Symposium</a> organized by <a href="https://www.c4tbh.org/">CTBH</a>.
+<span style="color:rgb(201, 76, 76)">19 Sep,23</span>    Presented a <a href="https://drive.google.com/file/d/180rgB5PVcHhKjfn8Q4M94sejQ5NnoRA8/view?usp=sharing"><font>poster</font></a> at <a href="https://www.c4tbh.org/mental-health-ai-symposium/">Digital Mental Health & AI Symposium</a> organized by <a href="https://www.c4tbh.org/">CTBH</a>.
 <span style="color:rgb(201, 76, 76)">15 July,23</span>   One <a href="https://arxiv.org/abs/2301.11508"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>.
 <span style="color:rgb(201, 76, 76)">20-23 Nov,22</span> Presented our <a href="https://aclanthology.org/2022.aacl-srw.5/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.
 <span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Awarded Presidential Graduate Fellowship from Dartmouth.
