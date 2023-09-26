@@ -11,6 +11,8 @@ Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses
 
 | Role | Affiliation | Course Title | Class Size | Syllabus |
 |-- | ----          | --          | ----         | -----|
+|Teaching assistant | Dartmouth | Machine Learning | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
+|Teaching assistant | Dartmouth | Theory of Computation | 20 | [<font color= "#990033" >🎯[COSC-39]</font>](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter23/index.php)|
 |Teaching assistant | Dartmouth | Algorithms | 55 | [<font color= "#990033" >🎯[COSC-31]</font>](https://www.cs.dartmouth.edu/~deepc/cs31-lecture-notes.htm)|
 |Co-instructor | CUET | Object-oriented programming (C++) | 132 | [<font color= "#990033" >🎯[CSE-143]</font>](../files/Course-Syllabus-for-CSE-143.pdf)|
 |Co-instructor | CUET | Object-oriented programming (Sessional) | 132 | [<font color= "#990033" >🎯[CSE-144]</font>](../files/Lab_Manual_OOP_144.pdf)|
