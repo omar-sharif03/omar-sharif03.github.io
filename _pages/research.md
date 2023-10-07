@@ -35,11 +35,10 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 *<font >Submitted to EMNLP-2023</font>*  
 -->
 <font color="#993333">Chain-of-Thought Embeddings for Stance Detection on Social Media</font>     
-*<font >Under Review</font>* 
-
+*<font >Accepted in EMNLP-2023 Findings</font>* 
 
 ## <font > Journals </font>  
-  
+
 <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
 <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
 [<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
