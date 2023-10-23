@@ -6,7 +6,7 @@ permalink: /research/
 
 ---
 
-My broad research interest are in Natural Language Processing and Deep Learning. Some of the areas I wish to work are,
+My broad research interests are in Natural Language Processing and Human Computer Interaction. Some of the areas I wish to work are,
 
  * Large Language Models, Multilingual and low‐resource NLP
  * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
@@ -25,50 +25,28 @@ My broad research interest are in Natural Language Processing and Deep Learning.
 
 ## <font > Works in Progress </font> 
 <font color="#993333">Text Encoders Lack Knowledge: Prompting Strategies for Domain-Specific Semantic Textual Similarity</font>     
-*<font >Under Review</font>* 
+*<font >Accepted in GEM workshop at EMNLP-2023 </font>* 
 
 <font color="#993333">Characterizing Information Seeking Events in Health-Related Social Discourse</font>     
 *<font >Under Review</font>*  
 
-<!--
 <font color="#993333">Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection</font>     
-*<font >Submitted to EMNLP-2023</font>*  
--->
+*<font >Under Review</font>*  
+
 <font color="#993333">Chain-of-Thought Embeddings for Stance Detection on Social Media</font>     
 *<font >Accepted in EMNLP-2023 Findings</font>* 
 
-## <font > Journals </font>  
-
-<font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
-<b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-[<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
-  
- <font color="#993333">Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features </font>   
- Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, et al.     
- [<font color=" #4796C9"> [JKSUCIS (IF: 8.83)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) / [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
-  
- <font color="#993333">Detecting Suspicious Texts Using Machine Learning Techniques  </font>     
-  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
-  [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci) / [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
- 
- <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
-  Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
-  
- <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
-  MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
-  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
- 
- 
 ## <font> Conferences </font> 
  <font color="#993333"> Theme-driven Keyphrase Extraction to Analyze Social Media Discourse</font>  
-  William Romano, <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
+  William Romano*, <b><font color="#2d862d">Omar Sharif*</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
   [To appear <font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2023/index.html/call_for_submissions.html) / [<font color="#4796C9">[PrePrint] </font>](https://arxiv.org/abs/2301.11508)
 
+<!--
   <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/) / [<font color="#4796C9">[Paper] </font>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
-  
+-->
+
   <font color="#993333"> MUTE: A Multimodal Dataset for Detecting Hateful Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [AACL-SRW 2022] </font>](https://www.aacl2022.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.aacl-srw.5/)
@@ -89,24 +67,52 @@ My broad research interest are in Natural Language Processing and Deep Learning.
   🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
  [<font color="#4796C9"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
-  
+
+ <!--
  <font color="#993333"> SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews</font> 
  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
  [<font color="#4796C9"> [HIS-2020, Springer] </font>](http://www.mirlabs.net/his20/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2011.09684)
+ -->
  
  <font color="#993333">Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Naïve Bayes</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Eftekhar Hossain   
  [<font color="#4796C9"> [ICASERT-2019, IEEE] </font>](https://ieeexplore.ieee.org/xpl/conhome/8931128/proceeding) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
-  
+
+<!--
  <font color="#993333">Offline Bengali Handwritten Sentence Recognition Using BiLSTM and CTC Networks</font>  
   M. A. Muhaimin Sakib, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
  [<font color="#4796C9"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
-  
+-->  
+
  <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
  [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57)        
- 
+
+
+## <font > Journals </font>  
+
+<font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
+<b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
+[<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
   
+ <font color="#993333">Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features </font>   
+ Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, et al.     
+ [<font color=" #4796C9"> [JKSUCIS (IF: 8.83)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) / [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
+  
+ <font color="#993333">Detecting Suspicious Texts Using Machine Learning Techniques  </font>     
+  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
+  [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci) / [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
+
+ <!--
+ <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
+  Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
+  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
+  
+ <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
+  MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
+  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
+-->
+
 ## <font > Workshops </font>
  
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
