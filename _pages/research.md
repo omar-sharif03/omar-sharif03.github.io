@@ -111,15 +111,13 @@ My broad research interests are in Natural Language Processing and Human Compute
   [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci) / [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
 
  <!--
- 
- <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
-  Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
-  
- <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
-  MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
-  [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
-
+  <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
+   Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
+   [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
+   
+  <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
+   MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
+   [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
 -->
 
 ## <font > Workshops </font>
