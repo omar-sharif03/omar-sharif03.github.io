@@ -24,14 +24,15 @@ My broad research interests are in Natural Language Processing and Human Compute
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
 
 ## <font > Works in Progress </font> 
-<font color="#993333">Text Encoders Lack Knowledge: Prompting Strategies for Domain-Specific Semantic Textual Similarity</font>     
-*<font >Accepted in GEM workshop at EMNLP-2023 </font>* 
 
 <font color="#993333">Characterizing Information Seeking Events in Health-Related Social Discourse</font>     
 *<font >Under Review</font>*  
 
 <font color="#993333">Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection</font>     
 *<font >Under Review</font>*  
+
+<font color="#993333">Text Encoders Lack Knowledge: Prompting Strategies for Domain-Specific Semantic Textual Similarity</font>     
+*<font >Accepted in GEM workshop at EMNLP-2023 </font>* 
 
 <font color="#993333">Chain-of-Thought Embeddings for Stance Detection on Social Media</font>     
 *<font >Accepted in EMNLP-2023 Findings</font>* 
