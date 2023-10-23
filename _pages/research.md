@@ -68,7 +68,7 @@ My broad research interests are in Natural Language Processing and Human Compute
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
  [<font color="#4796C9"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
 
- <!--
+<!--
  <font color="#993333"> SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews</font> 
  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
  [<font color="#4796C9"> [HIS-2020, Springer] </font>](http://www.mirlabs.net/his20/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2011.09684)
@@ -82,7 +82,7 @@ My broad research interests are in Natural Language Processing and Human Compute
  <font color="#993333">Offline Bengali Handwritten Sentence Recognition Using BiLSTM and CTC Networks</font>  
   M. A. Muhaimin Sakib, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
  [<font color="#4796C9"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
--->  
+ -->  
 
  <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
