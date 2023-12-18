@@ -8,7 +8,7 @@ permalink: /research/
 
 My broad research interests are in Natural Language Processing and Human Computer Interaction. Some of the areas I wish to work are,
 
- * Large Language Models, Multilingual and low‐resource NLP
+ * Large Language Models, Information Extraction, Multilingual and low‐resource NLP
  * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
  * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
  
@@ -38,9 +38,22 @@ My broad research interests are in Natural Language Processing and Human Compute
 *<font >Accepted in EMNLP-2023 Findings</font>* 
 
 ## <font> Conferences </font> 
+ <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
+ <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Tanzia Parvin,..., Sarah Preum  
+  [<font color="#4796C9"> [AAAI-2024] </font>](https://aaai.org/aaai-conference/call-for-the-special-track-on-ai-for-social-impact/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/pdf/2308.09156.pdf)
+
+ <font color="#993333"> Chain-of-Thought Embeddings for Stance Detection on Social Media</font>  
+  Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Sarah Preum   
+  [<font color="#4796C9"> [EMNLP-2023 Findings] </font>](https://2023.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2023.findings-emnlp.273/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/JosephGatto/Chain-of-Thought-Embeddings)
+
+ <font color="#993333"> Text Encoders Lack Knowledge: Leveraging Generative LLMs for
+Domain-Specific Semantic Textual Similarity</font>  
+  Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Parker Seegmiller, Philip Bohlman, Sarah Preum   
+  [<font color="#4796C9"> [GEM@EMNLP-2023] </font>](https://gem-benchmark.com/workshop) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/pdf/2309.06541.pdf) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/Persist-Lab/Domain-Specific-STS) 
+  
  <font color="#993333"> Theme-driven Keyphrase Extraction to Analyze Social Media Discourse</font>  
   William Romano*, <b><font color="#2d862d">Omar Sharif*</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
-  [To appear <font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2023/index.html/call_for_submissions.html) / [<font color="#4796C9">[PrePrint] </font>](https://arxiv.org/abs/2301.11508)
+  [<font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2023/index.html/call_for_submissions.html) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2301.11508)
 
 <!--
 
