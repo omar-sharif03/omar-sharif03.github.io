@@ -25,22 +25,16 @@ My broad research interests are in Natural Language Processing and Human Compute
 
 ## <font > Works in Progress </font> 
 
-<font color="#993333">Characterizing Information Seeking Events in Health-Related Social Discourse</font>     
+<font color="#993333">Deciphering Hate: Identifying Hateful Memes and Their Targets</font>     
 *<font >Under Review</font>*  
 
 <font color="#993333">Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection</font>     
 *<font >Under Review</font>*  
 
-<font color="#993333">Text Encoders Lack Knowledge: Prompting Strategies for Domain-Specific Semantic Textual Similarity</font>     
-*<font >Accepted in GEM workshop at EMNLP-2023 </font>* 
-
-<font color="#993333">Chain-of-Thought Embeddings for Stance Detection on Social Media</font>     
-*<font >Accepted in EMNLP-2023 Findings</font>* 
-
 ## <font> Conferences </font> 
  <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
  <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Tanzia Parvin,..., Sarah Preum  
-  [<font color="#4796C9"> [AAAI-2024] </font>](https://aaai.org/aaai-conference/call-for-the-special-track-on-ai-for-social-impact/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/pdf/2308.09156.pdf)
+  [<font color="#4796C9"> [AAAI-2024] </font>](https://aaai.org/aaai-conference/call-for-the-special-track-on-ai-for-social-impact/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/pdf/2308.09156.pdf) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/AAAI-2024-Dataset) 
 
  <font color="#993333"> Chain-of-Thought Embeddings for Stance Detection on Social Media</font>  
   Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Sarah Preum   
