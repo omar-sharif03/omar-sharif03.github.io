@@ -33,7 +33,7 @@ My broad research interests are in Natural Language Processing and Human Compute
 
 ## <font> Conferences </font> 
  <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
- <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Tanzia Parvin,..., Sarah Preum  
+ <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Tanzia Parvin, <b>et al.</b> 
   [<font color="#4796C9"> [AAAI-2024] </font>](https://aaai.org/aaai-conference/call-for-the-special-track-on-ai-for-social-impact/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/pdf/2308.09156.pdf) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/AAAI-2024-Dataset) 
 
  <font color="#993333"> Chain-of-Thought Embeddings for Stance Detection on Social Media</font>  
