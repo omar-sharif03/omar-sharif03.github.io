@@ -9,9 +9,9 @@ main:
   - title: "Education"
     url: /education/ 
    
-- title: "Achievements/Skills"
-  url: /achievements/ 
-      
+  - title: "Achievements/Skills"
+    url: /achievements/ 
+        
   - title: "Notes/Misc"
     url: /notes 
 
