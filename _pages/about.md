@@ -2,16 +2,19 @@
 permalink: /
 title: "Hello, this is Omar,"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
+
 ---
 
 <!---
 <p align="justify">
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
 </p>
+
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 -->
 
 <p align="justify">
