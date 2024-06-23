@@ -3,8 +3,7 @@ title: "Quotes"
 excerpt: ""
 author_profile: true
 permalink: /misc/
-redirect_from: 
-  - /about.html
+
 ---
 <!---
 * ACL Rolling Review [[Deadline: 15th of every month]](https://aclrollingreview.org/)
