@@ -9,14 +9,14 @@ main:
   - title: "Education"
     url: /education/ 
    
-# - title: "Skills/Achievements"
-#   url: /skills/ 
-  
 - title: "Skills/Achievements"
   url: /achievements/ 
       
   - title: "Notes/Misc"
     url: /notes 
+
+# - title: "Skills/Achievements"
+#   url: /skills/ 
   
 # - title: "Misc"
 #   url: /misc/ 
