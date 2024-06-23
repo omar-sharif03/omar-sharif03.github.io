@@ -15,11 +15,11 @@ main:
   - title: "Achievements"
     url: /achievements/ 
       
-  - title: "Notes/Links"
+  - title: "Notes/Misc"
     url: /notes 
-    
-  - title: "Misc"
-    url: /misc/ 
+  
+# - title: "Misc"
+#   url: /misc/ 
    
 
 #   - title: "Teaching"
