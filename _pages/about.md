@@ -46,6 +46,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <div style="height: 400px; overflow: auto;">
 <pre>
 <span style="color:rgb(201, 76, 76)">16 May,24</span>    One <a href="https://arxiv.org/abs/2403.10829"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.
+<span style="color:rgb(201, 76, 76)">06 Feb,24</span>    Received <b>Student Travel Grant from AAAI</b>  as a support to attend and present my paper at <a href="https://www.icwsm.org/2024/index.html/index.html">ICWSM-2024</a>.
 <span style="color:rgb(201, 76, 76)">06 Feb,24</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2024.eacl.org/">EACL-2024</a>.
 <span style="color:rgb(201, 76, 76)">22 Jan,24</span>    One <a href="https://aclanthology.org/2024.eacl-srw.12/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.eacl.org/">EACL-SRW-2024</a>.
 <span style="color:rgb(201, 76, 76)">09 Dec,23</span>    One <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30241"><font color="#cc00ff">paper</font></a> accepted at <a href="https://aaai.org/aaai-conference/">AAAI-2024</a>.
