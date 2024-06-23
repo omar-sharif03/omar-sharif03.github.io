@@ -3,8 +3,7 @@ title: "Research Grants"
 excerpt: ""
 author_profile: true
 permalink: /achievements/
-redirect_from: 
-  - /about.html
+
 ---
 
  * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
