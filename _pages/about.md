@@ -45,7 +45,10 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">09 Dec,23</span>    One paper accepted at <a href="https://aaai.org/aaai-conference/">AAAI-2024</a>.
+<span style="color:rgb(201, 76, 76)">16 May,24</span>    One <a href="https://arxiv.org/abs/2403.10829"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.
+<span style="color:rgb(201, 76, 76)">06 Feb,24</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2024.eacl.org/">EACL-2024</a>.
+<span style="color:rgb(201, 76, 76)">22 Jan,24</span>    One <a href="https://aclanthology.org/2024.eacl-srw.12/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.eacl.org/">EACL-SRW-2024</a>.
+<span style="color:rgb(201, 76, 76)">09 Dec,23</span>    One <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30241"><font color="#cc00ff">paper</font></a> accepted at <a href="https://aaai.org/aaai-conference/">AAAI-2024</a>.
 <span style="color:rgb(201, 76, 76)">6-10 Dec,23</span>  Virtually attended <a href="https://2023.emnlp.org/">EMNLP-2023</a> and presented our papers (<a href="https://aclanthology.org/2023.findings-emnlp.273/"><font color="#cc00ff">Paper-1</font></a>, <a href="https://arxiv.org/pdf/2309.06541.pdf"><font color="#cc00ff">Paper-2</font></a>).
 <span style="color:rgb(201, 76, 76)">27 Oct,23</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.
 <span style="color:rgb(201, 76, 76)">23 Oct,23</span>    One <a href="https://arxiv.org/abs/2309.06541"><font color="#cc00ff">paper</font></a> accepted in <a href="https://gem-benchmark.com/workshop">GEM-Workshop</a> at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.
