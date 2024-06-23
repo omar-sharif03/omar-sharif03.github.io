@@ -3,7 +3,6 @@ permalink: /
 title: "Hello, this is Omar,"
 excerpt: "About me"
 
-
 ---
 
 <!---
