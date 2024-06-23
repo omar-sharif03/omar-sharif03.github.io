@@ -50,7 +50,7 @@ My broad research interests are in Natural Language Processing and Human Compute
  <font color="#993333"> Text Encoders Lack Knowledge: Leveraging Generative LLMs for
 Domain-Specific Semantic Textual Similarity</font>  
   Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Parker Seegmiller, Philip Bohlman, Sarah Preum   
-  [<font color="#4796C9"> [GEM@EMNLP-2023] </font>](https://gem-benchmark.com/workshop) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/pdf/2309.06541.pdf) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/Persist-Lab/Domain-Specific-STS) 
+  [<font color="#4796C9"> [GEM@EMNLP-2023] </font>](https://gem-benchmark.com/workshop) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2023.gem-1.23/) / [<font color="#4796C9"> [Dataset] </font>](https://github.com/Persist-Lab/Domain-Specific-STS) 
   
  <font color="#993333"> Theme-driven Keyphrase Extraction to Analyze Social Media Discourse</font>  
   William Romano*, <b><font color="#2d862d">Omar Sharif*</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
