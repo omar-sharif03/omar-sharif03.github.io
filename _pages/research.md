@@ -47,14 +47,13 @@ My broad research interests are in Natural Language Processing and Human Compute
   Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Sarah Preum   
   [<font color="#4796C9"> [EMNLP-2023 Findings] </font>](https://2023.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2023.findings-emnlp.273/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/JosephGatto/Chain-of-Thought-Embeddings)
 
- <font color="#993333"> Text Encoders Lack Knowledge: Leveraging Generative LLMs for
-Domain-Specific Semantic Textual Similarity</font>  
+ <font color="#993333"> Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity</font>  
   Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Parker Seegmiller, Philip Bohlman, Sarah Preum   
-  [<font color="#4796C9"> [GEM@EMNLP-2023] </font>](https://gem-benchmark.com/workshop) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2023.gem-1.23/) / [<font color="#4796C9"> [Dataset] </font>](https://github.com/Persist-Lab/Domain-Specific-STS) 
+ [<font color="#4796C9"> [GEM@EMNLP-2023] </font>](https://gem-benchmark.com/workshop) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2023.gem-1.23/) / [<font color="#4796C9"> [Dataset] </font>](https://github.com/Persist-Lab/Domain-Specific-STS) 
   
  <font color="#993333"> Theme-driven Keyphrase Extraction to Analyze Social Media Discourse</font>  
   William Romano*, <b><font color="#2d862d">Omar Sharif*</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
-  [<font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2023/index.html/call_for_submissions.html) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2301.11508)
+  [<font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2024/index.html/index.html) / [<font color="#4796C9">[Paper] </font>](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551)
 
 <!--
 
