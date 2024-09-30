@@ -9,18 +9,18 @@ permalink: /education/
 **[Dartmouth College](https://home.dartmouth.edu/)**   
 *PhD in Computer Science*   
 Study Period: <b>September 2022 - Ongoing</b>   
-Supervisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: [Persist Lab](https://persist-lab.github.io/)
+Advisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: [Persist Lab](https://persist-lab.github.io/)
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Masters in Computer Science and Engineering*   
 Study Period: <b>August 2019 - January 2022</b>   
-Supervisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) Lab: CUET NLP 
+Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) Lab: CUET NLP 
 
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Bachelors in Computer Science and Engineering*   
 Study Period: <b>March 2014 - November 2018</b>   
-Supervisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
+Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
 
 <!---
 CGPA: <b>3.90/4.00</b>  
