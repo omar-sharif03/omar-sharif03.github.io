@@ -44,7 +44,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <font size="2">🔵</font> 
 <font size="2">🟣</font> 
 -->
-Our group is in Researcher Access Program. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.
+
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
