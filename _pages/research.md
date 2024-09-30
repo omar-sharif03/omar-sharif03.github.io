@@ -5,14 +5,19 @@ permalink: /research/
 
 ---
 
-My broad research interests are in Natural Language Processing and Human Computer Interaction. Some of the areas I wish to work are,
+My broad research interests are in Natural Language Processing, Human Computer Interaction and Deep Learning. Some of the areas I am working are,
+ * Large Language Models Inference/Training and Representation Learning [[<font color="#4796C9"> EMNLP-23 </font>](https://aclanthology.org/2023.findings-emnlp.273/), [<font color="#4796C9">GEM@EMNLP-23 </font>](https://aclanthology.org/2023.gem-1.23/)]
+ * Multi-granularity Information Extraction (event and argument extraction, arument augmentation) [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241)]
+ * Multimodal NLP (analyze text, image, speech, and other meta signals to build intelligent systems and evaluating large VLMs)
+ * NLP for Social Good (application focusing on Social Science and Healthcare)
 
- * Large Language Models, Information Extraction, Multilingual and low‐resource NLP
- * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
- * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
  
   
 <!--
+ * Large Language Models, Information Extraction, Multilingual and low‐resource NLP
+ * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
+ * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
+
   ## <font color="#00cc66"> Research Statement </font>  
     Will write my research statement here.
   *<font color="#ff6633">Omar Sharif</font>*
@@ -24,20 +29,24 @@ My broad research interests are in Natural Language Processing and Human Compute
 
 ## <font > Works in Progress </font> 
 
-<font color="#993333">Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</font>     
-*<font >Under Review</font>*  
-
 <font color="#993333">Large Language Models for Document-Level Event-Argument Data Augmentation for Challenging Role Types</font>     
+*<font >Under Review</font>* 
+
+<font color="#993333">Socially Constructed Treatment Plans: Analyzing Online Peer Interactions to Understand How Patients Navigate Complex Medical Conditions</font>     
 *<font >Under Review</font>*  
 
-## <font> Conferences </font> 
+## <font> Conferences </font>
+<font color="#993333">Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</font>     
+<b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
+[<font color="#4796C9"> [EMNLP-2024] </font>](https://2024.emnlp.org/) / [<font color="#4796C9">[Dataset] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Data) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Code) / [<font color="#4796C9"> [Project Website] </font>](https://omar-sharif03.github.io/DiscourseEE/)
+ 
  <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
  <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Tanzia Parvin, <b>et al.</b>    
- [<font color="#4796C9"> [AAAI-2024] </font>](https://aaai.org/aaai-conference/call-for-the-special-track-on-ai-for-social-impact/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/pdf/2308.09156.pdf) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/AAAI-2024-Dataset)
+ [<font color="#4796C9"> [AAAI-2024] </font>](https://aaai.org/aaai-conference/call-for-the-special-track-on-ai-for-social-impact/) / [<font color="#4796C9">[Paper] </font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/AAAI-2024-Dataset)
 
  <font color="#993333"> Deciphering Hate: Identifying Hateful Memes and Their Targets</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Sarah Preum  
-  [<font color="#4796C9"> [ACL-2024] </font>](https://2024.aclweb.org/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2403.10829)/[<font color="#4796C9"> [Dataset & Code] </font>](https://github.com/eftekhar-hossain/Bengali-Hateful-Memes)
+  [<font color="#4796C9"> [ACL-2024] </font>](https://2024.aclweb.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.acl-long.454/)/[<font color="#4796C9"> [Dataset & Code] </font>](https://github.com/eftekhar-hossain/Bengali-Hateful-Memes/tree/main/Deciphering-Hate%40ACL)
 
  <font color="#993333"> Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection </font>  
   Eftekhar Hossain*, <b><font color="#2d862d">Omar Sharif*</font></b>, Mohammed Moshiul Hoque, Sarah Preum  
