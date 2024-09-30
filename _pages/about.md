@@ -49,7 +49,7 @@ Our group is in Researcher Access Program. We received a $5k API credit and will
 <div style="height: 400px; overflow: auto;">
 <pre>
 <span style="color:rgb(201, 76, 76)">20 Sep,24</span>    Feeling motivated!! One <a href="https://omar-sharif03.github.io/DiscourseEE/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.emnlp.org/">EMNLP-2024</a> main conference.
-<span style="color:rgb(201, 76, 76)">30 July,24</span>   Our group is in <a href="https://openai.com/form/researcher-access-program/"><font color="#cc00ff">OpenAI Researcher Access Programr</font></a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.
+<span style="color:rgb(201, 76, 76)">30 July,24</span>   Our group is in <a href="https://openai.com/form/researcher-access-program/"><font color="#cc00ff">OpenAI Researcher Access Program</font></a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.
 <span style="color:rgb(201, 76, 76)">16 May,24</span>    One <a href="https://arxiv.org/abs/2403.10829"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.
 <span style="color:rgb(201, 76, 76)">13 Apr,24</span>    Received <b>Student Travel Grant from AAAI</b>  as a support to attend and present my paper at <a href="https://www.icwsm.org/2024/index.html/index.html">ICWSM-2024</a>.
 <span style="color:rgb(201, 76, 76)">06 Feb,24</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2024.eacl.org/">EACL-2024</a>.
