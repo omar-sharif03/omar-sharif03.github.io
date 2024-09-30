@@ -38,6 +38,8 @@ Solved 1000+ competitive programming problems in different online platforms as p
 ## <font color="#00cc66"> Honors and Awards</font>
 <ul>
   <li> <b><font color= "#737373" > Presidential Graduate Fellow</font></b> (2022): Awarded to only two incoming graduate student in Dartmouth</li>
+  <li> <b><font color= "#737373" > Student Travel Grant (AAAI) </font></b> (2024): To present my paper at ICWSM-2024</li>
+  <li> <b><font color= "#737373" > Best Research Publication</font></b> (2022): At research fair organized by CUET</li>
   <li> <b><font color= "#737373" >CUET Ex-students merit award</font></b> (2015, 2016, 2017): For obtaining highest GPA in an academic year</li>
   <li> <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional</li>
   <li> <b><font color= "#737373" >Best paper award</font></b>: CONSTRAINT collocated with AAAI-2021</li>
@@ -65,16 +67,17 @@ Solved 1000+ competitive programming problems in different online platforms as p
 **Competitive Programming Club, CUET**    
 <b><font color= "#737373" >Coach</font></b>  [Jan 2019 - Aug 2022] 
 
-  * Teach students advance data structures, number theory and algorithms.
+  * Teach students advanced data structures, number theory, and algorithms.
   * Organize contests, keep track of individual performance and form up teams. 
 
 **ACM Student Chapter, CUET**    
 <b><font color= "#737373" >Vice Chair</font></b>  [Mar 2021 - Aug 2022] 
 
-  * Lead a team of 30+ active members. Plan and asses the growth of the chapter.
+  * Lead a team of 30+ active members. Plan and assess the growth of the chapter.
   * Arrange research seminars, talks and workshops on different trending topics. 
 
 ## <font color="#00cc66"> Co-curricular</font>
+   * Organized [*<font color="#ff6633"> Real-Info workshop</font>*](https://sites.google.com/view/real-info-2024) at ICWSM-2024.
    * Organized CUET CSE Fest 2017, 2018, 2019.
    * Organized CUET National Collegiate Programming Contest 2017.
    * Champion of CUET Teachers Association Football Tournament 2019.
