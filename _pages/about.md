@@ -95,7 +95,7 @@ Our group is in Researcher Access Program. We received a $5k API credit and will
 
 ## <font color="#00cc66"> Academic Service </font> 
 Program Committee Member/Reviewer for, 
-  * *Conferences:* ACL[23, 24], EMNLP[23, 24], NAACL-24, ACL Rolling Review, ICWSM-24, LREC[23, 24], COLING-25
+  * *Conferences:* ACL-[23, 24], EMNLP-[23, 24], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
   * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
 
 ## <font color="#00cc66"> NLP Resources </font>   
