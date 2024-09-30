@@ -6,10 +6,10 @@ permalink: /research/
 ---
 
 My broad research interests are in Natural Language Processing, Human Computer Interaction and Deep Learning. Some of the areas I am working are,
- * Large Language Models Inference/Training and Representation Learning [[<font color="#4796C9"> EMNLP-23 </font>](https://aclanthology.org/2023.findings-emnlp.273/), [<font color="#4796C9">GEM@EMNLP-23 </font>](https://aclanthology.org/2023.gem-1.23/)]
- * Multi-granularity Information Extraction (event and argument extraction, arument augmentation) [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241)]
- * Multimodal NLP (analyze text, image, speech, and other meta signals to build intelligent systems and evaluating large VLMs)
- * NLP for Social Good (application focusing on Social Science and Healthcare)
+ * Large Language Models Inference/Training and Representation Learning [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9"> EMNLP-23 </font>](https://aclanthology.org/2023.findings-emnlp.273/), [<font color="#4796C9">GEM@EMNLP-23 </font>](https://aclanthology.org/2023.gem-1.23/)]
+ * Multi-granularity Information Extraction (event and argument extraction, argument augmentation) [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9">arXiv</font>](https://arxiv.org/abs/2403.03304)]
+ * Multimodal NLP (analyze text, image, speech, and other meta signals to build intelligent systems and evaluate large VLMs) [[<font color="#4796C9"> ACL-24 </font>](https://aclanthology.org/2024.acl-long.454/), [<font color="#4796C9">EACL-24</font>](https://aclanthology.org/2024.eacl-srw.12/)]
+ * NLP for Social Good (application focusing on Social Science and Healthcare) [[<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9"> ICWSM-24 </font>](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551), [<font color="#4796C9">Neurocomputing</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567)]
 
  
   
