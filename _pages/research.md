@@ -38,7 +38,7 @@ My broad research interests are in Natural Language Processing, Human Computer I
 ## <font> Conferences </font>
 <font color="#993333">Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</font>     
 <b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
-[<font color="#4796C9"> [EMNLP-2024] </font>](https://2024.emnlp.org/) / [<font color="#4796C9">[Dataset] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Data) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Code) / [<font color="#4796C9"> [Project Website] </font>](https://omar-sharif03.github.io/DiscourseEE/)
+[<font color="#4796C9"> [EMNLP-2024] </font>](https://2024.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.emnlp-main.673/) / [<font color="#4796C9">[Dataset] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Data) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Code) / [<font color="#4796C9"> [Talk] </font>](https://drive.google.com/file/d/1O4HXZPT3FwpnCHTifxEQ7azWXIdk5LWV/view?usp=sharing) / [<font color="#4796C9"> [Slides] </font>](https://docs.google.com/presentation/d/1oxpl9f9mbhHpeAHKWZdh2o4F25s9gyoN/edit?usp=sharing&ouid=115245397498807472226&rtpof=true&sd=true) / [<font color="#4796C9"> [Project Website] </font>](https://omar-sharif03.github.io/DiscourseEE/)
  
  <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
  <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Tanzia Parvin, <b>et al.</b>    
