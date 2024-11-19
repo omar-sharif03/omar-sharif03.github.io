@@ -31,7 +31,7 @@ I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under 
 -->
 <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
 
-<b>My latest CV: </b> [<a href="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/files/Short_Resume_Omar.pdf"><font color="#990033">Resume</font></a>]
+<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1drGFkiNotRJ2HtOXvcKjBdcD5biTmiNt/view?usp=sharing"><font color="#990033">Resume</font></a>]
 
 
 <!---
@@ -48,6 +48,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
+<span style="color:rgb(201, 76, 76)">12-16 Nov,24</span>  Attended <a href="https://2024.emnlp.org/">EMNLP-2024</a> and presented our paper (<a href="https://aclanthology.org/2024.emnlp-main.673"><font color="#cc00ff">DiscourseEE</font></a>).
 <span style="color:rgb(201, 76, 76)">20 Sep,24</span>    Feeling motivated!! One <a href="https://omar-sharif03.github.io/DiscourseEE/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.emnlp.org/">EMNLP-2024</a> main conference.
 <span style="color:rgb(201, 76, 76)">30 July,24</span>   Our group is in <a href="https://openai.com/form/researcher-access-program/"><font color="#cc00ff">OpenAI Researcher Access Program</font></a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.
 <span style="color:rgb(201, 76, 76)">16 May,24</span>    One <a href="https://arxiv.org/abs/2403.10829"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.
