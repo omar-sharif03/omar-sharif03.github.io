@@ -126,17 +126,3 @@ List of few books, courses and blog posts that I find really helpfull.
    * Colah's Blog [[Link]](http://colah.github.io/).
    * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
    
-<!---
-I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and eventually enable seamless interaction between intelligent machines and humans. I spent Spring 2025 interning at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve visual reasoning capabilities of MLLMs through Reinforcement learning.
--->
-
- <!-- it is crucial to process, relate, and combine information from several modalities. -->
- <!---
- I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
-
- I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and . I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual) to enable seamless interaction between intelligent machines and humans.
--->
-
- <!---
- Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
--->
