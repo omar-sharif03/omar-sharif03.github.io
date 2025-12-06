@@ -5,6 +5,7 @@ author_profile: true
 permalink: /teach/
 
 ---
+<b> <font color="red">Shifted the domain. Please check this webpage  <a href="https://omar-sharif.github.io/">https://omar-sharif.github.io/</a>. to get updated information. </font></b>
 
 Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
 
