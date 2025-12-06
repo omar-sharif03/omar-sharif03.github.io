@@ -4,6 +4,7 @@ excerpt: ""
 permalink: /research/
 
 ---
+<b> <font color="red">Shifted the domain. Please check this webpage  <a href="https://omar-sharif.github.io/">https://omar-sharif.github.io/</a>. to get updated information. </font></b>
 
 My broad research interests are in Natural Language Processing, Human Computer Interaction and Deep Learning. Some of the areas I am working are,
  * Large Language Models Inference/Training and Representation Learning [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9"> EMNLP-23 </font>](https://aclanthology.org/2023.findings-emnlp.273/), [<font color="#4796C9">GEM@EMNLP-23 </font>](https://aclanthology.org/2023.gem-1.23/)]
