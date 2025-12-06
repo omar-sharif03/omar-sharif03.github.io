@@ -5,6 +5,8 @@ author_profile: true
 permalink: /achievements/
 
 ---
+<b> <font color="red">Shifted the domain. Please check this webpage  <a href="https://omar-sharif.github.io/">https://omar-sharif.github.io/</a>. to get updated information. </font></b>
+
 
  * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
  * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
