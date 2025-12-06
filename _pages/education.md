@@ -6,6 +6,7 @@ permalink: /education/
 
 ---
 <b> <font color="red">Shifted the domain. Please check this webpage  <a href="https://omar-sharif.github.io/">https://omar-sharif.github.io/</a>. to get updated information. </font></b>
+
 **[Dartmouth College](https://home.dartmouth.edu/)**   
 *PhD in Computer Science*   
 Study Period: <b>September 2022 - Ongoing</b>   
