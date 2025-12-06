@@ -5,22 +5,19 @@ author_profile: true
 permalink: /education/
 
 ---
-
+<b> <font color="red">Shifted the domain. Please check this webpage  <a href="https://omar-sharif.github.io/">https://omar-sharif.github.io/</a>. to get updated information. </font></b>
 **[Dartmouth College](https://home.dartmouth.edu/)**   
 *PhD in Computer Science*   
 Study Period: <b>September 2022 - Ongoing</b>   
-Advisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: [Persist Lab](https://persist-lab.github.io/)
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Masters in Computer Science and Engineering*   
 Study Period: <b>August 2019 - January 2022</b>   
-Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) Lab: CUET NLP 
 
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Bachelors in Computer Science and Engineering*   
 Study Period: <b>March 2014 - November 2018</b>   
-Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
 
 <!---
 CGPA: <b>3.90/4.00</b>  
