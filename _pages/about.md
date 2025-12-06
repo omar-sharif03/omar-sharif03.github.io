@@ -16,8 +16,9 @@ redirect_from:
   - /about.html
 -->
 <p align="justify">
-<b> Shifted the domain. Please check this webpage  <a href="https://omar-sharif.github.io/">https://omar-sharif.github.io/</a>. to get updated information. </b>
+<b> <font color="red">Shifted the domain. Please check this webpage  <a href="https://omar-sharif.github.io/">https://omar-sharif.github.io/</a>. to get updated information. </font></b>
 </p> 
+
 <p align="justify">
 I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  departiment at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in Natural Language Processing; with a focus on extracting meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless human-machine interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a>, where I worked on improving the visual reasoning abilities of MLLMs using reinforcement learning.
 </p> 
